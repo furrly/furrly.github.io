@@ -3,9 +3,11 @@ import classNames from 'classnames';
 
 const FooterSocial = ({
   className,
+  size,
   ...props
 }) => {
 
+  var iconSize = size ?? 16;
   const classes = classNames(
     'footer-social',
     className
@@ -20,8 +22,8 @@ const FooterSocial = ({
         <li>
           <a href="https://facebook.com/">
             <svg
-              width="16"
-              height="16"
+              width={iconSize}
+              height={iconSize}
               viewBox="0 0 16 16"
               xmlns="http://www.w3.org/2000/svg">
               <title>Facebook</title>
@@ -33,8 +35,8 @@ const FooterSocial = ({
         <li>
           <a href="https://twitter.com/">
             <svg
-              width="16"
-              height="16"
+              width={iconSize}
+              height={iconSize}
               viewBox="0 0 16 16"
               xmlns="http://www.w3.org/2000/svg">
               <title>Twitter</title>
@@ -46,8 +48,8 @@ const FooterSocial = ({
         <li>
           <a href="https://google.com/">
             <svg
-              width="16"
-              height="16"
+              width={iconSize}
+              height={iconSize}
               viewBox="0 0 16 16"
               xmlns="http://www.w3.org/2000/svg">
               <title>Instagram</title>

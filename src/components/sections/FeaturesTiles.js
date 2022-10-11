@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Adoptez la facilité',
+    paragraph: 'Avec Furrly vous allez avoir plus de temps pour vous occuper des naissances, pour ensuite bien informer et éduquer les futurs parents.'
   };
 
   return (
@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    System de Réservations
+                    Système de réservations
                     </h4>
                   <p className="m-0 text-sm">Furrly vous aide à garder vos files d'attentes organisées.</p>
                 </div>

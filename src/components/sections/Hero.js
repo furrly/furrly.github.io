@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
-import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
 import {ReactComponent as AppStore} from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
@@ -73,7 +72,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/thumbnail.png')}
                 alt="Hero"
                 width={896}
                 height={504} />
@@ -83,7 +82,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://www.youtube.com/embed/8XnKleOkQaM"
+            video="https://www.youtube.com/embed/cNS1_GRB94g?&autoplay=1"
             videoTag="iframe" />
             <div className="hero-content">
             <div className="container-xs">
