@@ -1,9 +1,11 @@
 import React, { useRef, useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Switch  } from 'react-router-dom';
+import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import DefaultLayout from './layouts/DefaultLayout';
 
 import Home from './views/Home';
+import Term from './components/sections/Term';
 
 const App = () => {
 
@@ -19,9 +21,10 @@ const App = () => {
     <ScrollReveal
       ref={childRef}
       children={() => (
-        <DefaultLayout>
-          <Home/>
-        </DefaultLayout>
+        <Switch>
+          <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
+          <AppRoute exact path="/terms" component={Term} layout={DefaultLayout} />
+        </Switch>
       )} />
   );
 }
