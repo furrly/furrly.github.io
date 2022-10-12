@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Album et profil
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/pet-manager.png')}
+                  src={require('./../../assets/images/profile.png')}
                   alt="Features split 01"
                   width={100}
                   height={100} />
@@ -96,7 +96,7 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Système de réservations
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -122,7 +122,7 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Gestion des portées
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
