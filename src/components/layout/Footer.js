@@ -39,13 +39,10 @@ const Footer = ({
             topDivider && 'has-top-divider'
           )}>
           <div className="footer-top space-between text-xxs">
+            <span style={{width:192}}></span>
+            <Link to="terms">Terms and Conditions</Link>
             <FooterSocial size={32}/>
-            <Link to="#0">Terms and Conditions</Link>
           </div>
-          {/* <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://cruip.com">Cruip</a>. All right reserved</div>
-          </div> */}
         </div>
       </div>
     </footer>
