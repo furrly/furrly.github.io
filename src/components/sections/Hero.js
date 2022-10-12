@@ -88,8 +88,9 @@ const Hero = ({
             <div className="container-xs">
               <div className="reveal-from-bottom" data-reveal-delay="800">
                 <ButtonGroup>
-                      <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly"><AppStore height={80}/></a>
-                      <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly"><GoogleStore height={80}/></a>
+                    <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly"><AppStore height={80}/></a>
+                    <div style={{padding:10}}></div>
+                    <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly"><GoogleStore height={80}/></a>
                 </ButtonGroup>
               </div>
             </div>
