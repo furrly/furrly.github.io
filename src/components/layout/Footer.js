@@ -40,7 +40,8 @@ const Footer = ({
           )}>
           <div className="footer-top space-between text-xxs">
             <span style={{width:192}}></span>
-            <Link to="terms">Terms and Conditions</Link>
+            <Link to="privacy">Privacy Policy</Link>
+            <Link to="terms">Terms of Use</Link>
             <FooterSocial size={32}/>
           </div>
         </div>
