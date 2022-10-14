@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Term = () => {
+const Terms = () => {
     return (
       <div>
         <h1>Terms of Use</h1>
@@ -8,4 +8,4 @@ const Term = () => {
     );
 }
   
-export default Term;
+export default Terms;

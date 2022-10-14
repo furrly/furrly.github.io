@@ -6,7 +6,7 @@ import DefaultLayout from './layouts/DefaultLayout';
 
 import Home from './views/Home';
 import Privacy from './components/sections/Privacy';
-import Term from './components/sections/Term';
+import Terms from './components/sections/Terms';
 
 const App = () => {
 
@@ -26,7 +26,7 @@ const App = () => {
           <Switch>
             <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
             <AppRoute exact path="/privacy" component={Privacy} layout={DefaultLayout} />
-            <AppRoute exact path="/terms" component={Term} layout={DefaultLayout} />
+            <AppRoute exact path="/terms" component={Terms} layout={DefaultLayout} />
           </Switch>
         )} />
     </Suspense>

@@ -1,5 +1,28 @@
 {
     "privacy": {
-        "title": "Privacy Policy"
+        "title": "Privacy Policy",
+        "general": "Furrly manages the use of personal information pursuant to standards set forth in the Personal Information Protection and Electronic Documents Act (S.C. 2000, c. 5) and the Act respecting the protection of personal information in the private sector (L.R.Q., c. P-39.1).",
+        "consent": {
+            "info": "You acknowledge, consent and agree that Furrly can access, keep and disclose information on the use of the present mobile application (hereafter the “application”) if required by law or if Furrly has bona fide reason to believe that protection or disclosure is necessary to:",
+            "p1": "comply with the legal process;",
+            "p2": "ensure compliance with the present terms of use;",
+            "p3": "respond to your customer service requests;"
+        },
+        "photoGallery": {
+            "title": "Photo Gallery",
+            "p1": "The application requires access rights to the camera and the device files to update the Photo Gallery. Unless explicitly shared, photos are only accessible by the owner. Photos are stored on Furrly's servers and can be deleted individually or deleting all the information associated with the user account via a feature offered on the application web site."
+        },
+        "onlineData": {
+            "title": "Online Data",
+            "p1": "The user profile stored online contains personal user information that is collected during the application registration and profile updates. A feature is provided on the application web site to delete all the information associated to a user account."
+        },
+        "localFiles": {
+            "title": "Local Files",
+            "p1": "Some data is saved and stored locally on the user's phone (some application preferences, images cache and others). It is not saved online. All local data is deleted when the user uninstalls the application."
+        },
+        "security": {
+            "title": "Security",
+            "p1": "The personal information we collect is kept in a secure environment. People having access to this data are required to respect the confidentiality of your information."
+        }
     }
 }

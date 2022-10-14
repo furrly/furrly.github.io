@@ -1,5 +1,28 @@
 {
     "privacy": {
-        "title": "Politique de confidentialité"
+        "title": "Politique de confidentialité",
+        "general": "Furrly gère l'utilisation des renseignements personnels conformément aux normes édictées par la Loi sur la protection des renseignements personnels et les documents électroniques (L.C. 2000, c. 5) et la Loi sur la protection des renseignements personnels dans le secteur privé (RLRQ, c. P-39.1).",
+        "consent": {
+            "info": "Vous reconnaissez, consentez et acceptez que Furrly puisse accéder, conserver ou divulguer les informations portant sur l'utilisation de la présente application mobile (ci-après, l'« application ») si cela est requis par la loi ou en croyant de bonne foi que cette protection ou divulgation d'accès est nécessaire pour :",
+            "p1": "respecter le processus légal ;",
+            "p2": "faire respecter les présentes Conditions d'utilisation ;",
+            "p3": "répondre à vos demandes de services à la clientèle ;"
+        },
+        "photoGallery": {
+            "title": "Album de photos",
+            "p1": "L'application nécessite les droits d'accès à la caméra et aux fichiers de l'appareil pour mettre à jour l'album de photos. À moins d'être explicitement partagées, les photos ne sont accessibles que par le propriétaire. Les photos sont stockées sur les serveurs de Furrly et peuvent être effacées individuellement ou encore en effaçant la totalité des informations associées au compte utilisateur via une fonctionnalité offerte sur le site applicatif."
+        },
+        "onlineData": {
+            "title": "Données en ligne",
+            "p1": "Le profil utilisateur stocké en ligne contient des informations personnelles sur l'utilisateur qui sont collectées lors de l'enregistrement de l'application et des mises à jour du profil. Une fonctionnalité est fournie sur le site web applicatif pour effacer la totalité des informations associées à votre compte utilisateur."
+        },
+        "localFiles": {
+            "title": "Fichiers locaux",
+            "p1": "Certaines données sont enregistrées et stockées en local sur le téléphone de l'utilisateur (certaines préférences d'application, cache d'images et autres). Elles ne sont pas sauvegardées en ligne. Toutes les données localles sont supprimées lorsque l’utilisateur désinstalle l’application."
+        },
+        "security": {
+            "title": "Sécurité",
+            "p1": "Les renseignements personnels que nous collectons sont conservés dans un environnement sécurisé. Les personnes travaillant pour nous sont tenues de respecter la confidentialité de vos informations."
+        }
     }
 }
