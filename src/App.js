@@ -1,5 +1,5 @@
-import React, { useRef, useEffect } from 'react';
-import { useLocation, Switch  } from 'react-router-dom';
+import React, { useRef, useEffect, Suspense } from 'react';
+import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import DefaultLayout from './layouts/DefaultLayout';
@@ -19,15 +19,17 @@ const App = () => {
   }, [location]);
 
   return (
-    <ScrollReveal
-      ref={childRef}
-      children={() => (
-        <Switch>
-          <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
-          <AppRoute exact path="/privacy" component={Privacy} layout={DefaultLayout} />
-          <AppRoute exact path="/terms" component={Term} layout={DefaultLayout} />
-        </Switch>
-      )} />
+    <Suspense fallback={<div></div>}>
+      <ScrollReveal
+        ref={childRef}
+        children={() => (
+          <Switch>
+            <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
+            <AppRoute exact path="/privacy" component={Privacy} layout={DefaultLayout} />
+            <AppRoute exact path="/terms" component={Term} layout={DefaultLayout} />
+          </Switch>
+        )} />
+    </Suspense>
   );
 }
 

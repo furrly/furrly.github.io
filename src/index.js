@@ -6,6 +6,8 @@ import { createBrowserHistory } from "history";
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import './i18n';
+
 //import './App.css';
 import './assets/scss/style.scss';
 
