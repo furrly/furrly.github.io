@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import FooterSocial from './partials/FooterSocial';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 
 const propTypes = {
   topOuterDivider: PropTypes.bool,
@@ -27,6 +28,8 @@ const Footer = ({
     className
   );
 
+  const { t } = useTranslation();
+
   return (
     <footer
       {...props}
@@ -40,8 +43,8 @@ const Footer = ({
           )}>
           <div className="footer-top space-between text-xxs">
             <span style={{width:192}}></span>
-            <Link to="privacy">Privacy Policy</Link>
-            <Link to="terms">Terms of Use</Link>
+            <Link to="privacy">{t('footer.privacy')}</Link>
+            <Link to="terms">{t('footer.terms')}</Link>
             <FooterSocial size={32}/>
           </div>
         </div>
