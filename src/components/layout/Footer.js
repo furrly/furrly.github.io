@@ -42,10 +42,12 @@ const Footer = ({
             topDivider && 'has-top-divider'
           )}>
           <div className="footer-top space-between text-xxs">
-            <span style={{width:192}}></span>
-            <Link to="privacy">{t('footer.privacy')}</Link>
-            <Link to="terms">{t('footer.terms')}</Link>
-            <FooterSocial size={32}/>
+            <div style={{}}>
+              <Link to="privacy">{t('footer.privacy')}</Link>
+              <br/>
+              <Link to="terms">{t('footer.terms')}</Link>
+            </div>
+            <FooterSocial size={32} />
           </div>
         </div>
       </div>
