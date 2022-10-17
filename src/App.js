@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, Suspense } from 'react';
+import React, { useRef, useEffect } from 'react';
 import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
@@ -19,7 +19,6 @@ const App = () => {
   }, [location]);
 
   return (
-    <Suspense fallback={<div></div>}>
       <ScrollReveal
         ref={childRef}
         children={() => (
@@ -29,7 +28,6 @@ const App = () => {
             <AppRoute exact path="/terms" component={Terms} layout={DefaultLayout} />
           </Switch>
         )} />
-    </Suspense>
   );
 }
 
