@@ -4,9 +4,12 @@ import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
-import {ReactComponent as AppStore} from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
-import {ReactComponent as GoogleStore} from './../../assets/images/google-play-badge-fr-091222.svg';
+import {ReactComponent as AppleStoreEn} from './../../assets/images/app_store_en_RGB_blk_092917.svg';
+import {ReactComponent as AppleStoreFr} from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
+import {ReactComponent as GoogleStoreEn} from './../../assets/images/google-play-badge-en-081922.svg';
+import {ReactComponent as GoogleStoreFr} from './../../assets/images/google-play-badge-fr-091222.svg';
 import {ReactComponent as Furrly} from './../../assets/images/furrly.svg';
+import { useTranslation } from 'react-i18next';
 
 const propTypes = {
   ...SectionProps.types
@@ -54,6 +57,12 @@ const Hero = ({
     bottomDivider && 'has-bottom-divider'
   );
 
+  const { i18n } = useTranslation();
+  const badgeHeight = 80;
+  const isFrench = i18n.language.startsWith("fr");
+  const appleBadge = isFrench ? <AppleStoreFr height={badgeHeight}/> : <AppleStoreEn height={badgeHeight}/>;
+  const googleBadge = isFrench ? <GoogleStoreFr height={badgeHeight}/> : <GoogleStoreEn height={badgeHeight}/>;
+
   return (
     <section {...props} className={outerClasses}>
       <div className="container-sm">
@@ -86,11 +95,14 @@ const Hero = ({
             videoTag="iframe" />
             <div className="hero-content">
             <div className="container-xs">
+              <div style={{marginBottom:50}}>
+                <button>Register</button>
+              </div>
               <div className="reveal-from-bottom" data-reveal-delay="800">
                 <ButtonGroup>
-                    <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly"><AppStore height={80}/></a>
+                    <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly">{appleBadge}</a>
                     <div style={{padding:10}}></div>
-                    <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly"><GoogleStore height={80}/></a>
+                    <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a>
                 </ButtonGroup>
               </div>
             </div>
