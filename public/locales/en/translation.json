@@ -1,4 +1,22 @@
 {
+    "home": {
+        "tiles": {
+            "title": "Adopt ease-of-use",
+            "p1": {
+                "what": "Furrly is",
+                "b1": "An app that let people book animal reservations",
+                "b2": "A management and birth assignment system",
+                "b3": "A communication tool to keep track of the adoption process"
+            },
+            "tile1": {
+                "title": "",
+                "p": ""
+            }
+        },
+        "split": {
+
+        }
+    },
     "footer": {
         "privacy": "Privacy Policy",
         "terms": "Terms and Conditions"

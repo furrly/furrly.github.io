@@ -5,7 +5,8 @@ import classNames from 'classnames';
 const propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string,
-    paragraph: PropTypes.string
+    paragraph: PropTypes.string,
+    items: PropTypes.arrayOf(PropTypes.string),
   }).isRequired,
   children: PropTypes.node,
   tag: PropTypes.oneOf(['h1', 'h2', 'h3'])
@@ -49,6 +50,9 @@ const SectionHeader = ({
             }
             {data.paragraph &&
               <p className="m-0">{data.paragraph}</p>
+            }
+            {data.items &&
+              <ul>{data.items.map((e, i) => <li key={i}>{e}</li>)}</ul>
             }
           </div>
         </div>

@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
+import { useTranslation } from 'react-i18next';
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -22,6 +23,8 @@ const FeaturesTiles = ({
   pushLeft,
   ...props
 }) => {
+
+  const { t } = useTranslation();
 
   const outerClasses = classNames(
     'features-tiles section',
@@ -44,8 +47,9 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Adoptez la facilité',
-    paragraph: 'Avec Furrly vous allez avoir plus de temps pour vous occuper des naissances, pour ensuite bien informer et éduquer les futurs parents.'
+    title: t("home.tiles.title"),
+    paragraph: t("home.tiles.p1.what"),
+    items: [t("home.tiles.p1.b1"), t("home.tiles.p1.b2"), t("home.tiles.p1.b3")]
   };
 
   return (
@@ -70,9 +74,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
-                    Système de réservations
-                    </h4>
+                  <h4 className="mt-0 mb-8">Système de réservations</h4>
                   <p className="m-0 text-sm">Furrly vous aide à garder vos files d'attentes organisées.</p>
                 </div>
               </div>

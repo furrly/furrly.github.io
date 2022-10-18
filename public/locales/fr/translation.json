@@ -1,4 +1,22 @@
 {
+    "home": {
+        "tiles": {
+            "title": "Adoptez la facilité",
+            "p1": {
+                "what": "Furrly c'est",
+                "b1": "Une application permettant aux gens de réserver un animal",
+                "b2": "Un système de gestion et d'attribution des naissances",
+                "b3": "Un moyen de communication pour suivre le processus d'adoption"
+            },
+            "tile1": {
+                "title": "",
+                "p": ""
+            }
+        },
+        "split": {
+
+        }
+    },
     "footer": {
         "privacy": "Politique de confidentialité",
         "terms": "Conditions d’utilisation"
@@ -83,8 +101,8 @@
         },
         "rules": {
             "title": "Règles d’usage, droits et responsabilités additionnels propres à votre appareil mobile",
-            "p1": "Sans limitée la portée générale de ce qui précède, votre utilisation de l'Application avec tout appareil mobile Apple® est assujettie aux règles d’usage établies par Apple Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation de l'App Store disponibles à l’adresse https://www.apple.com/legal/internet-services/itunes/ww/, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence.",
-            "p2": "Sans limitée la portée générale de ce qui précède, votre utilisation de l'Application avec tout appareil mobile Android® est assujettie aux règles d’usage établies par Google Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation d’Android Market disponibles à l’adresse https://play.google.com/about/play-terms/?hl=fr, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence."
+            "p1": "Sans limitée la portée générale de ce qui précède, votre utilisation de l’Application avec tout appareil mobile Apple® est assujettie aux règles d’usage établies par Apple Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation de l’App Store disponibles à l’adresse https://www.apple.com/legal/internet-services/itunes/ww/, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence.",
+            "p2": "Sans limitée la portée générale de ce qui précède, votre utilisation de l’Application avec tout appareil mobile Android® est assujettie aux règles d’usage établies par Google Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation d’Android Market disponibles à l’adresse https://play.google.com/about/play-terms/?hl=fr, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence."
         },
         "liability": {
             "title": "Limite de la responsabilité",
@@ -92,7 +110,7 @@
         },
         "warranty": {
             "title": "Exclusion de garanties",
-            "p1": "L’Application vous est fournie « telle qu’elle » et « telle que disponible » sans aucune représentation, caution, condition ou garantie d’aucune sorte, explicite ou implicite, ce qui comprend, sans s’y limiter, les garanties implicites de qualité marchande, d’adéquation à une fin particulière ou d’absence de contrefaçon. Cette exclusion ne s'applique pas là où la loi n'admet pas l'exclusion de garanties implicites. Dans la mesure permise par la loi, VIA ne fait aucune représentation et garantie à l’effet que l’Application (a) ne comporte pas d’erreur, est complète ou à jour; (b) sera toujours disponible; (c) répondra à vos attentes; et (d) est sécuritaire, sans fautes, défectuosités, virus ou tout autre contenu nuisible."
+            "p1": "L’Application vous est fournie « telle qu’elle » et « telle que disponible » sans aucune représentation, caution, condition ou garantie d’aucune sorte, explicite ou implicite, ce qui comprend, sans s’y limiter, les garanties implicites de qualité marchande, d’adéquation à une fin particulière ou d’absence de contrefaçon. Cette exclusion ne s’applique pas là où la loi n’admet pas l’exclusion de garanties implicites. Dans la mesure permise par la loi, VIA ne fait aucune représentation et garantie à l’effet que l’Application (a) ne comporte pas d’erreur, est complète ou à jour; (b) sera toujours disponible; (c) répondra à vos attentes; et (d) est sécuritaire, sans fautes, défectuosités, virus ou tout autre contenu nuisible."
         },
         "indemnification": {
             "title": "Indemnisation",
@@ -106,7 +124,7 @@
         "law": {
             "title": "Lois applicables et élection de domicile",
             "p1": "L’Entente est à tous égards régie et interprétée conformément aux lois de la province de Québec, au Canada, et aux lois du Canada y applicables, sans égard aux lois, règles ou autres dispositions relatives aux conflits de lois (de la province de Québec ou de toute autre juridiction) qui résulteraient en l’application des lois de toute autre juridiction que celle de la province de Québec.",
-            "p2": "Vous acceptez d’élire domicile sous la juridiction des tribunaux du district judiciaire de Montréal, en la province de Québec, pour tout conflit ou désaccord pouvant résulter de la présente Entente. Vous renoncez à soulever toute objection quant à la compétence de ces tribunaux d'interpréter le présent contrat et d'instruire tout litige en découlant en raison d’un forum inapproprié ou pour toute autre raison, et à entreprendre ou à déposer une action ou une plainte auprès de tout autre tribunal.",
+            "p2": "Vous acceptez d’élire domicile sous la juridiction des tribunaux du district judiciaire de Montréal, en la province de Québec, pour tout conflit ou désaccord pouvant résulter de la présente Entente. Vous renoncez à soulever toute objection quant à la compétence de ces tribunaux d’interpréter le présent contrat et d’instruire tout litige en découlant en raison d’un forum inapproprié ou pour toute autre raison, et à entreprendre ou à déposer une action ou une plainte auprès de tout autre tribunal.",
             "p3": "Rien de ce que contient la présente section ne saurait empêcher SYLC d’entreprendre une action devant tout tribunal compétent dans le but d’appliquer cette Entente et de demander des dommages ou une compensation équitable suivant une violation par vous de la présente Entente."
         },
         "termination": {
