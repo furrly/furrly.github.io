@@ -1,4 +1,12 @@
 {
+    "about": {
+        "title": "À propos de nous",
+        "p1": "SYLC s.e.n.c est une entreprise de développement logiciel."
+    },
+    "contact": {
+        "title": "Nous joindre",
+        "p1": "contact@furrly.com"
+    },
     "home": {
         "tiles": {
             "title": "Adoptez la facilité",
@@ -18,6 +26,9 @@
         }
     },
     "footer": {
+        "home": "Accueil",
+        "about": "À propos de nous",
+        "contact": "Nous joindre",
         "privacy": "Politique de confidentialité",
         "terms": "Conditions d’utilisation"
     },

@@ -1,4 +1,12 @@
 {
+    "about": {
+        "title": "About Us",
+        "p1": "SYLC s.e.n.c. is a software development company."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "p1": "contact@furrly.com"
+    },
     "home": {
         "tiles": {
             "title": "Adopt ease-of-use",
@@ -18,6 +26,9 @@
         }
     },
     "footer": {
+        "home": "Home",
+        "about": "About Us",
+        "contact": "Contact Us",
         "privacy": "Privacy Policy",
         "terms": "Terms and Conditions"
     },

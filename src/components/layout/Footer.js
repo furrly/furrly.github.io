@@ -43,6 +43,12 @@ const Footer = ({
           )}>
           <div className="footer-top space-between text-xxs">
             <div style={{}}>
+              <Link to="">{t('footer.home')}</Link>
+              <br/>
+              <Link to="about">{t('footer.about')}</Link>
+              <br/>
+              <Link to="contact">{t('footer.contact')}</Link>
+              <br/>
               <Link to="privacy">{t('footer.privacy')}</Link>
               <br/>
               <Link to="terms">{t('footer.terms')}</Link>

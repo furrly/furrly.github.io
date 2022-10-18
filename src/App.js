@@ -5,8 +5,10 @@ import ScrollReveal from './utils/ScrollReveal';
 import DefaultLayout from './layouts/DefaultLayout';
 
 import Home from './views/Home';
-import Privacy from './components/sections/Privacy';
-import Terms from './components/sections/Terms';
+import About from './views/About';
+import Contact from './views/Contact';
+import Privacy from './views/Privacy';
+import Terms from './views/Terms';
 
 const App = () => {
 
@@ -24,6 +26,8 @@ const App = () => {
         children={() => (
           <Switch>
             <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
+            <AppRoute exact path="/about" component={About} layout={DefaultLayout} />
+            <AppRoute exact path="/contact" component={Contact} layout={DefaultLayout} />
             <AppRoute exact path="/privacy" component={Privacy} layout={DefaultLayout} />
             <AppRoute exact path="/terms" component={Terms} layout={DefaultLayout} />
           </Switch>
