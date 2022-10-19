@@ -18,6 +18,7 @@ const App = () => {
   useEffect(() => {
     document.body.classList.add('is-loaded')
     childRef.current.init();
+    window.scrollTo(0, 0);
   }, [location]);
 
   return (

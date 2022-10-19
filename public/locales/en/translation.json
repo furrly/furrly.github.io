@@ -8,6 +8,9 @@
         "p1": "contact@furrly.com"
     },
     "home": {
+        "hero": {
+            "breederRegistration": "Breeder Registration"
+        },
         "tiles": {
             "title": "Adopt ease-of-use",
             "p1": {
@@ -15,14 +18,26 @@
                 "b1": "An app that let people book animal reservations",
                 "b2": "A management and birth assignment system",
                 "b3": "A communication tool to keep track of the adoption process"
-            },
-            "tile1": {
-                "title": "",
-                "p": ""
             }
         },
         "split": {
-
+            "reservation": {
+                "title": "Booking System",
+                "b1": "Receive adoption requests directly through the app",
+                "b2": "Communicate via Furrly with future owners",
+                "b3": "Inform people in the waiting list about births and assigned the offspring to future owners"
+            },
+            "litter": {
+                "title": "Litter Management",
+                "b1": "As soon as your animal has given birth, register the newborns",
+                "b2": "Furrly will then allow you to assign future owners to each of the little ones",
+                "b3": "Keep a birth history to ensure a responsible birth cycle"
+            },
+            "album": {
+                "title": "Album and Profile",
+                "p1": "The waiting times between booking, adoption and taking possession can seem endless. Furrly allows the breeder to keep in touch with future owners and to send messages and photos while waiting for the big day.",
+                "p2": "We know that our four-legged friends are precious. Furrly will allow you to create a profile for each of your pets. You will be able to have quick access to all your photos and keep all these memories."
+            }
         }
     },
     "footer": {

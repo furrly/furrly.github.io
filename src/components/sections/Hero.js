@@ -2,13 +2,14 @@ import React, { useState } from 'react';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
+import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
-import {ReactComponent as AppleStoreEn} from './../../assets/images/app_store_en_RGB_blk_092917.svg';
-import {ReactComponent as AppleStoreFr} from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
-import {ReactComponent as GoogleStoreEn} from './../../assets/images/google-play-badge-en-081922.svg';
-import {ReactComponent as GoogleStoreFr} from './../../assets/images/google-play-badge-fr-091222.svg';
-import {ReactComponent as Furrly} from './../../assets/images/furrly.svg';
+import { ReactComponent as AppleStoreEn } from './../../assets/images/app_store_en_RGB_blk_092917.svg';
+import { ReactComponent as AppleStoreFr } from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
+import { ReactComponent as GoogleStoreEn } from './../../assets/images/google-play-badge-en-081922.svg';
+import { ReactComponent as GoogleStoreFr } from './../../assets/images/google-play-badge-fr-091222.svg';
+import { ReactComponent as Furrly } from './../../assets/images/furrly.svg';
 import { useTranslation } from 'react-i18next';
 
 const propTypes = {
@@ -40,7 +41,7 @@ const Hero = ({
   const closeModal = (e) => {
     e.preventDefault();
     setVideomodalactive(false);
-  }   
+  }
 
   const outerClasses = classNames(
     'hero section center-content',
@@ -57,11 +58,11 @@ const Hero = ({
     bottomDivider && 'has-bottom-divider'
   );
 
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
   const badgeHeight = 80;
   const isFrench = i18n.language.startsWith("fr");
-  const appleBadge = isFrench ? <AppleStoreFr height={badgeHeight}/> : <AppleStoreEn height={badgeHeight}/>;
-  const googleBadge = isFrench ? <GoogleStoreFr height={badgeHeight}/> : <GoogleStoreEn height={badgeHeight}/>;
+  const appleBadge = isFrench ? <AppleStoreFr height={badgeHeight} /> : <AppleStoreEn height={badgeHeight} />;
+  const googleBadge = isFrench ? <GoogleStoreFr height={badgeHeight} /> : <GoogleStoreEn height={badgeHeight} />;
 
   return (
     <section {...props} className={outerClasses}>
@@ -69,7 +70,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              <Furrly height={250}/>
+              <Furrly height={250} />
             </h1>
 
           </div>
@@ -93,20 +94,22 @@ const Hero = ({
             handleClose={closeModal}
             video="https://www.youtube.com/embed/U-J8MMQhuBA?&autoplay=1"
             videoTag="iframe" />
-            <div className="hero-content">
+          <div className="hero-content">
             <div className="container-xs">
-              <div style={{marginBottom:50}}>
-                <button>Register</button>
+              <div style={{ marginBottom: 50 }}>
+                <a href="https://dev.furrly.com/web/breederregistration">
+                  <Button color={'grey'}>{t('home.hero.breederRegistration')}</Button>
+                </a>
               </div>
               <div className="reveal-from-bottom" data-reveal-delay="800">
                 <ButtonGroup>
-                    <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly">{appleBadge}</a>
-                    <div style={{padding:10}}></div>
-                    <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a>
+                  <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly">{appleBadge}</a>
+                  <div style={{ padding: 10 }}></div>
+                  <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a>
                 </ButtonGroup>
               </div>
             </div>
-            </div>
+          </div>
         </div>
       </div>
     </section>

@@ -32,6 +32,10 @@ const SectionHeader = ({
 
   const Component = tag;
 
+  const textAlignLeftStyle = {
+    textAlign : 'left'
+  };
+
   return (
     <>
       {(data.title || data.paragraph) &&
@@ -49,11 +53,13 @@ const SectionHeader = ({
                 )}>{data.title}</Component>
             }
             {data.paragraph &&
-              <p className="m-0">{data.paragraph}</p>
+              <h3 className="m-2">{data.paragraph}</h3>
             }
-            {data.items &&
-              <ul>{data.items.map((e, i) => <li key={i}>{e}</li>)}</ul>
-            }
+            <div style={textAlignLeftStyle}>
+              {data.items &&
+                <ul>{data.items.map((e, i) => <li key={i}>{e}</li>)}</ul>
+              }
+            </div>
           </div>
         </div>
       }

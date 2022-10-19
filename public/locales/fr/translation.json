@@ -8,6 +8,9 @@
         "p1": "contact@furrly.com"
     },
     "home": {
+        "hero": {
+            "breederRegistration": "Inscription pour éleveur"
+        },
         "tiles": {
             "title": "Adoptez la facilité",
             "p1": {
@@ -15,14 +18,26 @@
                 "b1": "Une application permettant aux gens de réserver un animal",
                 "b2": "Un système de gestion et d'attribution des naissances",
                 "b3": "Un moyen de communication pour suivre le processus d'adoption"
-            },
-            "tile1": {
-                "title": "",
-                "p": ""
             }
         },
         "split": {
-
+            "reservation": {
+                "title": "Système de réservation",
+                "b1": "Recevez les demandes d’adoption directement via l’application",
+                "b2": "Communiquer via Furrly avec les futurs propriétaires",
+                "b3": "Informer les gens de la liste d’attente sur les naissances et attitrés les rejetons aux futurs propriétaires"
+            },
+            "litter": {
+                "title": "Gestion des portées",
+                "b1": "Dès que votre animal aura donné naissance, inscrivez les nouveaux-nés",
+                "b2": "Furrly vous permettra ensuite d’attribuer des futurs propriétaires à chacun des petits",
+                "b3": "Garder un historique des naissances afin d’assurer un cycle de naissance responsable"
+            },
+            "album": {
+                "title": "Album et profil",
+                "p1": "Les moments d’attente entre la réservation, l’adoption et la prise de possession peuvent paraître interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
+                "p2": "Nous savons que nos compagnons à quatre pattes sont précieux. Furrly vous permettra de créer un profil pour chacun de vos animaux. Vous pourrez ainsi avoir rapidement accès à tous vos clichés photos et de conserver tous ces souvenirs."
+            }
         }
     },
     "footer": {
