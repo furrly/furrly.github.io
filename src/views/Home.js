@@ -1,15 +1,15 @@
 import React from 'react';
 // import sections
 import Hero from '../components/sections/Hero';
-import FeaturesTiles from '../components/sections/FeaturesTiles';
 import FeaturesSplit from '../components/sections/FeaturesSplit';
+import GeneralInformation from '../components/sections/GeneralInformation';
 
 const Home = () => {
 
   return (
     <>
       <Hero />
-      <FeaturesTiles />
+      <GeneralInformation />
       <FeaturesSplit invertMobile topDivider imageFill />
     </>
   );

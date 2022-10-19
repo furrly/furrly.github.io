@@ -116,7 +116,6 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">{t("home.split.album.title")}</h3>
-                <p className="mb-2">{t("home.split.album.p1")}</p>
                 <p className="m-0">{t("home.split.album.p2")}</p>
               </div>
               <div className={

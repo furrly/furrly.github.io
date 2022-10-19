@@ -1,7 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
 
 const propTypes = {
@@ -74,49 +73,10 @@ const Header = ({
   );
 
   return (
-    <header
-      {...props}
-      className={classes}
-    >
-      <div className="container">
-        <div className={
-          classNames(
-            'site-header-inner',
-            bottomDivider && 'has-bottom-divider'
-          )}>
-          <Logo />
-          {!hideNav &&
-            <>
-              <button
-                ref={hamburger}
-                className="header-nav-toggle"
-                onClick={isActive ? closeMenu : openMenu}
-              >
-                <span className="screen-reader">Menu</span>
-                <span className="hamburger">
-                  <span className="hamburger-inner"></span>
-                </span>
-              </button>
-              <nav
-                ref={nav}
-                className={
-                  classNames(
-                    'header-nav',
-                    isActive && 'is-active'
-                  )}>
-                <div className="header-nav-inner">
-                  <ul className={
-                    classNames(
-                      'list-reset text-xs',
-                      navPosition && `header-nav-${navPosition}`
-                    )}>
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>Terms and Conditions</Link>
-                    </li>
-                  </ul>
-                </div>
-              </nav>
-            </>}
+    <header {...props} className={classes}>
+      <div className="container center-content">
+        <div style={{margin:15}}>
+          <Logo/>
         </div>
       </div>
     </header>

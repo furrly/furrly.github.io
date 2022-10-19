@@ -13,7 +13,7 @@ const Logo = ({
     'brand',
     className
   );
-  let value = require('./../../../assets/images/furrly_icon_dark.svg');
+  let value = require('./../../../assets/images/furrly.svg');
 
   return (
     <div
@@ -25,8 +25,8 @@ const Logo = ({
           <Image
             src={value}
             alt="Open"
-            width={32}
-            height={32} />
+            width={256}
+            height={256} />
         </Link>
       </h1>
     </div>

@@ -9,6 +9,7 @@ import About from './views/About';
 import Contact from './views/Contact';
 import Privacy from './views/Privacy';
 import Terms from './views/Terms';
+import HeaderLayout from './layouts/HeaderLayout';
 
 const App = () => {
 
@@ -27,10 +28,10 @@ const App = () => {
         children={() => (
           <Switch>
             <AppRoute exact path="/" component={Home} layout={DefaultLayout} />
-            <AppRoute exact path="/about" component={About} layout={DefaultLayout} />
-            <AppRoute exact path="/contact" component={Contact} layout={DefaultLayout} />
-            <AppRoute exact path="/privacy" component={Privacy} layout={DefaultLayout} />
-            <AppRoute exact path="/terms" component={Terms} layout={DefaultLayout} />
+            <AppRoute exact path="/about" component={About} layout={HeaderLayout} />
+            <AppRoute exact path="/contact" component={Contact} layout={HeaderLayout} />
+            <AppRoute exact path="/privacy" component={Privacy} layout={HeaderLayout} />
+            <AppRoute exact path="/terms" component={Terms} layout={HeaderLayout} />
           </Switch>
         )} />
   );

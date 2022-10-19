@@ -96,7 +96,7 @@ const Hero = ({
             videoTag="iframe" />
           <div className="hero-content">
             <div className="container-xs">
-              <div style={{ marginBottom: 50 }}>
+              <div className="reveal-from-bottom" style={{ marginBottom: 50 }} data-reveal-delay="600">
                 <a href="https://dev.furrly.com/web/breederregistration">
                   <Button className={"button-register"}>{t('home.hero.breederRegistration')}</Button>
                 </a>
