@@ -27,11 +27,7 @@ i18n
 
     interpolation: {
       escapeValue: false,
-    }, 
-    react: {
-      wait: true,
-      useSuspense: false,
-   }
+    }
   }, 
   () => ReactDOM.render(
     <Router history={history}>
