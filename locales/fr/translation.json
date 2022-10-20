@@ -1,0 +1,178 @@
+{
+    "about": {
+        "title": "À propos de nous",
+        "p1": "<0>SYLC s.e.n.c</0> est une entreprise de développement logiciel."
+    },
+    "contact": {
+        "title": "Nous joindre",
+        "p1": "<0>info@furrly.com</0>"
+    },
+    "home": {
+        "hero": {
+            "breederRegistration": "Inscription pour éleveur"
+        },
+        "informations": "Les moments d’attente entre la réservation et l’adoption peuvent paraître interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
+        "tiles": {
+            "title": "Adoptez la facilité",
+            "p1": {
+                "what": "Furrly c'est",
+                "b1": "Une application permettant aux gens de réserver un animal",
+                "b2": "Un système de gestion et d'attribution des naissances",
+                "b3": "Un moyen de communication pour suivre le processus d'adoption"
+            }
+        },
+        "split": {
+            "reservation": {
+                "title": "Système de réservation",
+                "b1": "Recevez les demandes d’adoption directement via l’application",
+                "b2": "Communiquer via Furrly avec les futurs propriétaires",
+                "b3": "Informer les gens de la liste d’attente sur les naissances et attitrés les rejetons aux futurs propriétaires"
+            },
+            "litter": {
+                "title": "Gestion des portées",
+                "b1": "Dès que votre animal aura donné naissance, inscrivez les nouveaux-nés",
+                "b2": "Furrly vous permettra ensuite d’attribuer des futurs propriétaires à chacun des petits",
+                "b3": "Garder un historique des naissances afin d’assurer un cycle de naissance responsable"
+            },
+            "album": {
+                "title": "Album et profil",
+                "p1": "Les moments d’attente entre la réservation, l’adoption et la prise de possession peuvent paraître interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
+                "p2": "Nous savons que nos compagnons à quatre pattes sont précieux. Furrly vous permettra de créer un profil pour chacun de vos animaux. Vous pourrez ainsi avoir rapidement accès à tous vos clichés photos et de conserver tous ces souvenirs."
+            }
+        }
+    },
+    "footer": {
+        "home": "Accueil",
+        "about": "À propos de nous",
+        "contact": "Nous joindre",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d’utilisation"
+    },
+    "privacy": {
+        "title": "Politique de confidentialité",
+        "intro": "Furrly gère l’utilisation des renseignements personnels conformément aux normes édictées par la Loi sur la protection des renseignements personnels et les documents électroniques (L.C. 2000, c. 5) et la Loi sur la protection des renseignements personnels dans le secteur privé (RLRQ, c. P-39.1).",
+        "consent": {
+            "text": "Vous reconnaissez, consentez et acceptez que Furrly puisse accéder, conserver ou divulguer les informations portant sur l’utilisation de la présente application mobile (ci-après, l’« application ») si cela est requis par la loi ou en croyant de bonne foi que cette protection ou divulgation d’accès est nécessaire pour :",
+            "b1": "respecter le processus légal ;",
+            "b2": "faire respecter les présentes Conditions d’utilisation ; et",
+            "b3": "répondre à vos demandes de services à la clientèle."
+        },
+        "photoGallery": {
+            "title": "Album de photos",
+            "p1": "L’application nécessite les droits d’accès à la caméra et aux fichiers de l’appareil pour mettre à jour l’album de photos. À moins d’être explicitement partagées, les photos ne sont accessibles que par le propriétaire. Les photos sont stockées sur les serveurs de Furrly et peuvent être effacées individuellement ou encore en effaçant la totalité des informations associées au compte utilisateur via une fonctionnalité offerte sur le site applicatif."
+        },
+        "onlineData": {
+            "title": "Données en ligne",
+            "p1": "Le profil utilisateur stocké en ligne contient des informations personnelles sur l’utilisateur qui sont collectées lors de l’enregistrement de l’application et des mises à jour du profil. Une fonctionnalité est fournie sur le site web applicatif pour effacer la totalité des informations associées à votre compte utilisateur."
+        },
+        "localFiles": {
+            "title": "Fichiers locaux",
+            "p1": "Certaines données sont enregistrées et stockées en local sur le téléphone de l’utilisateur (certaines préférences d’application, cache d’images et autres). Elles ne sont pas sauvegardées en ligne. Toutes les données localles sont supprimées lorsque l’utilisateur désinstalle l’application."
+        },
+        "security": {
+            "title": "Sécurité",
+            "p1": "Les renseignements personnels que nous collectons sont conservés dans un environnement sécurisé. Les personnes travaillant pour nous sont tenues de respecter la confidentialité de vos informations."
+        }
+    },
+    "terms": {
+        "title": "Modalités et conditions d’utilisation",
+        "intro": "CETTE ENTENTE LIMITE LA RESPONSABILITÉ DE SYLC S.E.N.C. (« SYLC »,  « Nous », « Notre », SELON LE CONTEXTE), VOUS ACCORDE UN DROIT D’UTILISATION LIMITÉ, ET DONNE À SYLC LA PROPRIÉTÉ ET LE CONTRÔLE DE TOUTE INFORMATION SOUMISE PAR VOUS PAR L’ENTREMISE DE CETTE APPLICATION.",
+        "general": {
+            "title": "Généralités",
+            "p1": "Ce document définit les modalités et les conditions d’utilisation (« les Modalités ») vous permettant d’utiliser l’application Furrly (« l’Application »). Ces Modalités forment un accord légalement contraignant (« l’Entente ») entre vous et SYLC. En cliquant sur le bouton « Obtenir », vous confirmez avoir lu, compris et accepté d’être lié par les Modalités de l’Entente ci-dessous. Veuillez lire attentivement les Modalités avant de donner votre accord en téléchargeant l’Application. Si vous n’acceptez pas ces Modalités, vous ne pouvez pas installer ni utiliser l’Application."
+        },
+        "privacy": {
+            "title": "Protection de vos renseignements",
+            "p1": "Afin d’utiliser certaines composantes de l’Application, vous devez vous enregistrer en créant un compte avec Furrly (“le Compte Furrly”) et en fournissant certains renseignements à votre sujet lorsque requis de le faire par le formulaire d’enregistrement de l’Application.",
+            "p2": "SYLC accorde une grande importance à la protection de votre vie privée. À cet effet, nous opérons en tout temps en conformité avec les lois et règlements applicables. Lorsque vous utilisez l’Application, tout renseignement personnel que vous fournirez à SYLC sera utilisé et protégé en conformité avec les exigences de la Loi sur la protection des renseignements personnels et la Politique de vie privée de SYLC, laquelle peut être consultée <1>ici</1>."
+        },
+        "license": {
+            "title": "Propriété intellectuelle et licence",
+            "p1": "Cette application est la propriété et est opérée par SYLC, dont le siège est situé Mirabel, Québec, Canada, J7J 0B5.",
+            "p2": "En contrepartie de votre acceptation aux présentes Modalités, SYLC vous octroie une licence non transmissible, non exclusive, incessible et révocable pour télécharger, accéder à et utiliser l’Application pour votre usage personnel et non commercial, et pour aucun autre usage. Cette licence est conditionnelle au respect des présentes Modalités.",
+            "p3": "SYLC conserve toute marque de commerce, tout droit d’auteur, droit sur les banques de données et tout autre droit de propriété intellectuelle en lien avec l’Application, de même que le code de programmation sous-jacent."
+        },
+        "conditions": {
+            "title": "Conditions d’utilisation",
+            "p1": {
+                "text": "Cette application est mise à votre disposition gratuitement pour utilisation sur votre appareil mobile. En adhérant à la présente Entente et en accédant et utilisant cette Application, incluant l’achat de services par le biais de celle-ci, vous représentez que :",
+                "b1": "vous avec la capacité légale et le droit d’adhérer à cette Entente, et d’accéder à et d’utiliser cette Application en conformité avec la présente Entente ;",
+                "b2": "vous êtes âgé(e) d’au moins 13 ans ;",
+                "b3": "vous n’êtes pas, de ce fait, en violation d’une autre entente ou obligation ou disposition légale ou règlementaire ;",
+                "b4": "vous utiliserez l’application en conformité avec les présentes Modalités ;",
+                "b5": "tous les renseignements personnels que vous fournirez sont exacts, à jour et complets ;",
+                "b6": "vous protègerez vos renseignements personnels et ne divulguerez aucun nom d’utilisateur, mot de passe ou autre information qui vous est fournie à une tierce personne, et que vous Nous aviserez, dès que possible, si vous constatez ou suspectez, pour quelque raison que ce soit, que la sécurité de votre compte a été compromise ; et",
+                "b7": "vous acceptez l’entière responsabilité pour toutes évaluations, taxes, frais et droits et toute autre responsabilité financière pouvant résulter de votre utilisation de l’Application sous votre nom ou avec votre compte, de même que toute utilisation sous votre nom ou avec votre compte par une tierce personne."
+            }
+        },
+        "limitations": {
+            "title": "Utilisation restreinte",
+            "p1": "Vous ne pouvez pas accéder à ou utiliser l’Application pour une raison illégale ou interdite par la présente Entente. Vous pouvez accéder à ou utiliser l’Application afin de déterminer la disponibilité d’animaux à adopter et afin de faire des réservations légitimes pour vous ou une autre personne pour laquelle vous êtes légalement autorisé(e) à agir. L’utilisation de cette Application pour toute autre raison, incluant dans un but commercial, est strictement interdite.",
+            "p2": {
+                "text": "Sans limiter la portée générale de ce qui précède, vous acceptez qu’en accédant à ou en utilisant Notre Application, vous ne commettrez ou ne participerez à, ou ne permettrez à personne de commettre ou de participer en votre nom à, aucun des actes suivants, chacun étant expressément interdit par cette Entente :",
+                "b1": "(a) faire et distribuer des copies de l’Application; (b) tenter de copier, reproduire, altérer, modifier, faire de l’ingénierie inverse, désassembler, décompiler ou traduire l’Application; (c) créer des travaux dérivés de l’Application (d) essayer d’extraire le code source de l’Application; (e) retirer, modifier ou détruire des notations de marques ou de droits réservés ou des avis de droits d’auteur mis sur ou contenus dans l’Application ou (f) utiliser l’Application afin de développer une application  ou une technologie ayant la même fonction première Notre l’Application;",
+                "b2": "accéder à Notre Application dans le but de faire des réservations, spéculatives, frauduleuses ou fausses, ou toute réservation anticipant la demande. SYLC se réserve le droit d’annuler toute et chaque réservation interdite, sans avis préalable et sans être tenue responsable; ou",
+                "b3": "adopter tout autre comportement ou toute autre activité qui entre en conflit avec la présente Entente ou que SYLC considère, à sa seule et absolue discrétion, être en conflit avec cette Entente."
+            }
+        },
+        "platforms": {
+            "title": "Plateforme de l’Application",
+            "p1": "Cette application est uniquement disponible sur les appareils mobiles iPhone®, ainsi que sur les appareils mobiles Android®.",
+            "p2": "Vous reconnaissez et acceptez que la disponibilité de l’Application dépende de la plateforme fournie par une tierce partie par exemple, le « Apple Store » pour l’iPhone (« la Plateforme »), grâce à laquelle vous accédez à l’Application. Vous reconnaissez que la présente Entente est entre vous et SYLC et qu’il n’y a aucun lien contractuel avec la Plateforme. SYLC, et non la Plateforme, est seule responsable de l’Application, de son contenu, de l’entretien et des services de support, ainsi que des réclamations qui pourraient s’y rapporter par exemple, responsabilité reliée au produit, conformité règlementaire ou violation de droits de propriété intellectuelle."
+        },
+        "analytics": {
+            "title": "Utilisation de Google Analytics",
+            "p1": "Notre Application utilise Google Analytics afin d’obtenir des services d’analyse web. Google Analytics est un service d’analyse web offert par Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). VIA utilise l’information sur les visiteurs amassée par Google Analytics dans le but d’améliorer l’expérience-client et de s’assurer que le contenu de son Application est présenté d’une façon qui facilite son utilisation et la recherche d’informations par les visiteurs.",
+            "p2": "L’information concernant votre utilisation de Notre Application (incluant votre adresse IP) générée par les témoins de connexion sera généralement transmise à et enregistrée par Google sur leurs serveurs. Google respecte l’entente « US-Safe-Harbour ». Google utilise les informations concernant le public, le trafic des données sources et celles reliée au contenu afin d’évaluer l’utilisation de Notre Application et de Nous offrir des services d’analyse web. Google ne transmettra vos renseignements à des tierces parties que lorsque requise de le faire par la loi. Google ne fera pas de lien entre votre adresse IP et d’autres données qu’elle détient.",
+            "p3": "Si vous préférez empêcher le transfert d’information concernant votre visite sur l’Application à Google Analytics, vous pouvez installer un module de désactivation. Vous pouvez télécharger ce module ici : https://tools.google.com/dlpage/gaoptout/?hl=fr."
+        },
+        "rules": {
+            "title": "Règles d’usage, droits et responsabilités additionnels propres à votre appareil mobile",
+            "p1": "Sans limitée la portée générale de ce qui précède, votre utilisation de l’Application avec tout appareil mobile Apple® est assujettie aux règles d’usage établies par Apple Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation de l’App Store disponibles à l’adresse https://www.apple.com/legal/internet-services/itunes/ww/, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence.",
+            "p2": "Sans limitée la portée générale de ce qui précède, votre utilisation de l’Application avec tout appareil mobile Android® est assujettie aux règles d’usage établies par Google Inc., y compris les modalités énoncées dans les modalités et conditions d’utilisation d’Android Market disponibles à l’adresse https://play.google.com/about/play-terms/?hl=fr, les dispositions applicables étant incorporées à l’Entente par le biais de la présente référence."
+        },
+        "liability": {
+            "title": "Limite de la responsabilité",
+            "p1": "Bien que SYLC s’engage à prendre toutes les mesures raisonnables dans les circonstances afin de maintenir la sécurité de cette Application et de protéger vos renseignements personnels et confidentiels que vous aurez fournis, vous acceptez que votre utilisation de cette Application se fait entièrement à vos propres risques. Dans les limites permises par la loi, VIA ne sera aucunement tenue responsable de (a) toute erreur ou omission dans le contenu disponible sur l’Application et de (b) tout dommage, direct, indirect, particulier, punitif ou exemplaire suite à une perte ou un préjudice de toute nature que ce soit, notamment un dommage à l’appareil mobile, résultant de l’accès à ou de votre utilisation de l’Application. Advenant qu’un tribunal retienne la responsabilité de SYLC pour un préjudice subi, SYLC ne pourra en aucun temps être tenue responsable pour des dommages excédant la somme de 250$ CAD."
+        },
+        "warranty": {
+            "title": "Exclusion de garanties",
+            "p1": "L’Application vous est fournie « telle qu’elle » et « telle que disponible » sans aucune représentation, caution, condition ou garantie d’aucune sorte, explicite ou implicite, ce qui comprend, sans s’y limiter, les garanties implicites de qualité marchande, d’adéquation à une fin particulière ou d’absence de contrefaçon. Cette exclusion ne s’applique pas là où la loi n’admet pas l’exclusion de garanties implicites. Dans la mesure permise par la loi, VIA ne fait aucune représentation et garantie à l’effet que l’Application (a) ne comporte pas d’erreur, est complète ou à jour; (b) sera toujours disponible; (c) répondra à vos attentes; et (d) est sécuritaire, sans fautes, défectuosités, virus ou tout autre contenu nuisible."
+        },
+        "indemnification": {
+            "title": "Indemnisation",
+            "p1": "Comme condition d’utilisation de l’Application, vous acceptez de défendre, d’indemniser et de dégager VIA, de même que tout dirigeant, administrateur, employé et mandataire de la société, de toutes responsabilités, pertes, réclamations et dépenses (y compris les frais raisonnables d’honoraires légaux) découlant de ou en relation avec votre utilisation de l’Application ou de votre violation de la présente Entente.",
+            "p2": "Un retard, une omission ou un défaut de SYLC d’exercer tout droit ou pouvoir découlant de cette Entente ne doit pas être considéré comme une renonciation de Notre part à exercer ce droit ou pouvoir qui pourra être exercé en tout temps et contre toute personne."
+        },
+        "links": {
+            "title": "Liens externes",
+            "p1": "Cette Application peut contenir des hyperliens vers d’autres sites qui sont opérés par des tierces parties. Ces liens sont fournis pour référence seulement. Nous n’avons aucun contrôle sur leur contenu ou leur performance et ne sommes pas responsables de leur contenu ou de leurs pratiques notamment, en matière de protection des renseignements personnels. SYLC n’endosse et n’accepte aucune responsabilité en lien avec le matériel qui se trouve sur ces sites externes, ni aucune association avec leur opérateur. Lorsque vous cliquez sur un lien, vous devez vous référer à leurs conditions d’utilisation et à leur politique de vie privée."
+        },
+        "law": {
+            "title": "Lois applicables et élection de domicile",
+            "p1": "L’Entente est à tous égards régie et interprétée conformément aux lois de la province de Québec, au Canada, et aux lois du Canada y applicables, sans égard aux lois, règles ou autres dispositions relatives aux conflits de lois (de la province de Québec ou de toute autre juridiction) qui résulteraient en l’application des lois de toute autre juridiction que celle de la province de Québec.",
+            "p2": "Vous acceptez d’élire domicile sous la juridiction des tribunaux du district judiciaire de Montréal, en la province de Québec, pour tout conflit ou désaccord pouvant résulter de la présente Entente. Vous renoncez à soulever toute objection quant à la compétence de ces tribunaux d’interpréter le présent contrat et d’instruire tout litige en découlant en raison d’un forum inapproprié ou pour toute autre raison, et à entreprendre ou à déposer une action ou une plainte auprès de tout autre tribunal.",
+            "p3": "Rien de ce que contient la présente section ne saurait empêcher SYLC d’entreprendre une action devant tout tribunal compétent dans le but d’appliquer cette Entente et de demander des dommages ou une compensation équitable suivant une violation par vous de la présente Entente."
+        },
+        "termination": {
+            "title": "Résiliation de compte",
+            "p1": "Nous nous réservons le droit, à notre seule discrétion, de retirer ou de modifier l’Application et/ou d’empêcher l’accès ou de retirer le droit d’accès à l’Application à toute personne, à tout moment, pour quelque raison que ce soit, notamment suite à une violation des présentes Modalités."
+        },
+        "amendments": {
+            "title": "Modifications",
+            "p1": "VIA se réserve le droit de modifier ces Modalités à tout moment pour quelque raison que ce soit. Lorsque des changements importants auront été apportés, VIA affichera les modalités et conditions d’utilisation révisées sur l’Application. Vous serez présumés les avoir acceptées si vous continuez à utiliser l’Application après que les Modalités révisées aient été affichées."
+        },
+        "agreement": {
+            "title": "Entente complète",
+            "p1": "Sous réserve de toute autre entente applicable à laquelle SYLC pourrait être partie, ceci représente l’entente, le contrat et l’accord dans son exhaustivité entre vous et SYLC."
+        },
+        "severance": {
+            "title": "Dissociabilité",
+            "p1": "Si toute partie de l’Entente devait être considérée comme invalide ou inexécutable, alors cette partie n’affectera pas la validité ou l’application du reste de l’Entente qui sera exécutée, et cette partie invalide ou inapplicable devra être séparée de l’Entente."
+        },
+        "contact": {
+            "title": "Nous joindre",
+            "p1": "Pour toute question au sujet de l’Application, ou si vous avez des questions ou suggestions d’améliorations à apporter à l’Application, veuillez s’il vous plaît nous contacter <1>ici</1>."
+        }
+     }
+}

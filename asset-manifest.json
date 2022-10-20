@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e846ecac.chunk.css",
+    "main.js": "/static/js/main.68e24a70.chunk.js",
+    "main.js.map": "/static/js/main.68e24a70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f4a1c5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f4a1c5c.js.map",
+    "static/js/2.f2f2d9d9.chunk.js": "/static/js/2.f2f2d9d9.chunk.js",
+    "static/js/2.f2f2d9d9.chunk.js.map": "/static/js/2.f2f2d9d9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c784ed8d7b41f7ffc524bfd1df1220d5.js": "/precache-manifest.c784ed8d7b41f7ffc524bfd1df1220d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e846ecac.chunk.css.map": "/static/css/main.e846ecac.chunk.css.map",
+    "static/js/2.f2f2d9d9.chunk.js.LICENSE.txt": "/static/js/2.f2f2d9d9.chunk.js.LICENSE.txt",
+    "static/media/app_store_en_RGB_blk_092917.2ed66cc9.svg": "/static/media/app_store_en_RGB_blk_092917.2ed66cc9.svg",
+    "static/media/app_store_fr_RGB_blk_092917.3cc57c98.svg": "/static/media/app_store_fr_RGB_blk_092917.3cc57c98.svg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/furrly.svg": "/static/media/furrly.3519d511.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.2b2b7da4.cjs",
+    "static/media/google-play-badge-en-081922.d6d4a3a1.svg": "/static/media/google-play-badge-en-081922.d6d4a3a1.svg",
+    "static/media/google-play-badge-fr-091222.d5a017c7.svg": "/static/media/google-play-badge-fr-091222.d5a017c7.svg",
+    "static/media/litter-manager.png": "/static/media/litter-manager.2852f6cf.png",
+    "static/media/profile.png": "/static/media/profile.4e9b8c4a.png",
+    "static/media/queue-manager.png": "/static/media/queue-manager.d0738f30.png",
+    "static/media/thumbnail.png": "/static/media/thumbnail.6d9ef69c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f4a1c5c.js",
+    "static/js/2.f2f2d9d9.chunk.js",
+    "static/css/main.e846ecac.chunk.css",
+    "static/js/main.68e24a70.chunk.js"
+  ]
+}
