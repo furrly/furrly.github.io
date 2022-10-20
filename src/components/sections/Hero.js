@@ -97,7 +97,7 @@ const Hero = ({
           <div className="hero-content">
             <div className="container-xs">
               <div className="reveal-from-bottom" style={{ marginBottom: 50 }} data-reveal-delay="600">
-                <a href="https://dev.furrly.com/web/breederregistration">
+                <a href="https://app.furrly.com/web/breederregistration">
                   <Button className={"button-register"}>{t('home.hero.breederRegistration')}</Button>
                 </a>
               </div>
