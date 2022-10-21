@@ -41,7 +41,7 @@ const Footer = ({
             'site-footer-inner',
             topDivider && 'has-top-divider'
           )}>
-          <div className="footer-top space-between text-xxs">
+          <div className="footer-top space-between text-sm">
             <div style={{}}>
               <Link to="">{t('footer.home')}</Link>
               <br/>
@@ -53,7 +53,7 @@ const Footer = ({
               <br/>
               <Link to="terms">{t('footer.terms')}</Link>
             </div>
-            <FooterSocial size={32} />
+            <FooterSocial size={80} />
           </div>
         </div>
       </div>
