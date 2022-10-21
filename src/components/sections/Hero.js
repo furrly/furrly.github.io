@@ -1,16 +1,12 @@
-import React, { useState } from 'react';
 import classNames from 'classnames';
+import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import { SectionProps } from '../../utils/SectionProps';
-import ButtonGroup from '../elements/ButtonGroup';
+import AppStoreLinks from '../AppStoreLinks';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
-import { ReactComponent as AppleStoreEn } from './../../assets/images/app_store_en_RGB_blk_092917.svg';
-import { ReactComponent as AppleStoreFr } from './../../assets/images/app_store_fr_RGB_blk_092917.svg';
-import { ReactComponent as GoogleStoreEn } from './../../assets/images/google-play-badge-en-081922.svg';
-import { ReactComponent as GoogleStoreFr } from './../../assets/images/google-play-badge-fr-091222.svg';
 import { ReactComponent as Furrly } from './../../assets/images/furrly.svg';
-import { useTranslation } from 'react-i18next';
 
 const propTypes = {
   ...SectionProps.types
@@ -58,11 +54,7 @@ const Hero = ({
     bottomDivider && 'has-bottom-divider'
   );
 
-  const { t, i18n } = useTranslation();
-  const badgeHeight = 80;
-  const isFrench = i18n.language.startsWith("fr");
-  const appleBadge = isFrench ? <AppleStoreFr height={badgeHeight} /> : <AppleStoreEn height={badgeHeight} />;
-  const googleBadge = isFrench ? <GoogleStoreFr height={badgeHeight} /> : <GoogleStoreEn height={badgeHeight} />;
+  const { t } = useTranslation();
 
   return (
     <section {...props} className={outerClasses}>
@@ -102,11 +94,10 @@ const Hero = ({
                 </a>
               </div>
               <div className="reveal-from-bottom" data-reveal-delay="800">
-                <ButtonGroup>
-                  <a title="Apple" href="https://play.google.com/store/apps/details?id=app.furrly">{appleBadge}</a>
-                  <div style={{ padding: 10 }}></div>
-                  <a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a>
-                </ButtonGroup>
+                <AppStoreLinks 
+                  isComingSoon={true} 
+                  appleStoreUrl={"https://apps.apple.com/us/app/furrly/id1641355865"}
+                  googleStoreUrl={"https://play.google.com/store/apps/details?id=app.furrly"} />
               </div>
             </div>
           </div>
