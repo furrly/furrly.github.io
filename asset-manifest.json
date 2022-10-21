@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.006cbcce.chunk.css",
-    "main.js": "/static/js/main.b774623c.chunk.js",
-    "main.js.map": "/static/js/main.b774623c.chunk.js.map",
+    "main.js": "/static/js/main.c76bb604.chunk.js",
+    "main.js.map": "/static/js/main.c76bb604.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8f4a1c5c.js",
     "runtime-main.js.map": "/static/js/runtime-main.8f4a1c5c.js.map",
     "static/js/2.f2f2d9d9.chunk.js": "/static/js/2.f2f2d9d9.chunk.js",
     "static/js/2.f2f2d9d9.chunk.js.map": "/static/js/2.f2f2d9d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3665a5cf3b4167ec02636924fd0430a1.js": "/precache-manifest.3665a5cf3b4167ec02636924fd0430a1.js",
+    "precache-manifest.3a78053738e5055ea4f082acb2c40295.js": "/precache-manifest.3a78053738e5055ea4f082acb2c40295.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.006cbcce.chunk.css.map": "/static/css/main.006cbcce.chunk.css.map",
     "static/js/2.f2f2d9d9.chunk.js.LICENSE.txt": "/static/js/2.f2f2d9d9.chunk.js.LICENSE.txt",
@@ -21,13 +21,13 @@
     "static/media/google-play-badge-fr-091222.d5a017c7.svg": "/static/media/google-play-badge-fr-091222.d5a017c7.svg",
     "static/media/litter-manager.png": "/static/media/litter-manager.2852f6cf.png",
     "static/media/profile.png": "/static/media/profile.4e9b8c4a.png",
-    "static/media/queue-manager.png": "/static/media/queue-manager.d0738f30.png",
+    "static/media/queue-manager.png": "/static/media/queue-manager.ad74828e.png",
     "static/media/thumbnail.png": "/static/media/thumbnail.6d9ef69c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8f4a1c5c.js",
     "static/js/2.f2f2d9d9.chunk.js",
     "static/css/main.006cbcce.chunk.css",
-    "static/js/main.b774623c.chunk.js"
+    "static/js/main.c76bb604.chunk.js"
   ]
 }
