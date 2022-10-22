@@ -60,7 +60,7 @@
         },
         "photoGallery": {
             "title": "Photo Gallery",
-            "p1": "The application requires access rights to the camera and the device files to update the Photo Gallery. Unless explicitly shared, photos are only accessible by the owner. Photos are stored on Furrly’s servers and can be deleted individually or deleting all the information associated with the user account via a feature offered on the application web site."
+            "p1": "The application requires access rights to the camera and the device files to update the Photo Gallery. Unless explicitly shared, photos are only accessible by the owner. Photos are stored on Furrly’s servers and can be deleted individually or by deleting all the information associated with the user account via a feature offered on the application web site."
         },
         "onlineData": {
             "title": "Online Data",
@@ -173,7 +173,7 @@
         },
         "contact": {
             "title": "Contact Us",
-            "p1": "If you require further information about the Application or have any suggestions to improve such Application, please contact us <1>here</1>."
+            "p1": "If you require further information about the Application or have any suggestions to improve such Application, please <1>contact us</1>."
         }
     }
 }
