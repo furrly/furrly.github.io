@@ -54,7 +54,11 @@ const Hero = ({
     bottomDivider && 'has-bottom-divider'
   );
 
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+
+  const isFrench = i18n.language.startsWith("fr");
+  var youtubeLink = isFrench ? "https://www.youtube.com/embed/I-BwNV1e700?autoplay=1" : "https://www.youtube.com/embed/2ux6ZJbgt0A?autoplay=1";
+  var thumbnailLink = isFrench ? "thumbnail_fr.png" : "thumbnail_en.png";
 
   return (
     <section {...props} className={outerClasses}>
@@ -74,7 +78,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/thumbnail.png')}
+                src={require("./../../assets/images/" + thumbnailLink)}
                 alt="Hero"
                 width={896}
                 height={504} />
@@ -84,7 +88,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://www.youtube.com/embed/U-J8MMQhuBA?&autoplay=1"
+            video={youtubeLink}
             videoTag="iframe" />
           <div className="hero-content">
             <div className="container-xs">
