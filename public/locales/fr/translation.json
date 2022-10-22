@@ -10,7 +10,7 @@
     "home": {
         "hero": {
             "breederRegistration": "Inscription pour éleveur",
-            "comingSoon": "Applications mobiles disponibles bientôt!"
+            "comingSoon": "Application mobile disponible bientôt!"
         },
         "informations": "Les moments d’attente entre la réservation et l’adoption peuvent paraitre interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
         "tiles": {
@@ -68,7 +68,7 @@
         },
         "localFiles": {
             "title": "Fichiers locaux",
-            "p1": "Certaines données sont enregistrées et stockées en local sur le téléphone de l’utilisateur (certaines préférences d’application, cache d’images et autres). Elles ne sont pas sauvegardées en ligne. Toutes les données localles sont supprimées lorsque l’utilisateur désinstalle l’application."
+            "p1": "Certaines données sont enregistrées et stockées en local sur le téléphone de l’utilisateur (certaines préférences d’application, cache d’images et autres). Elles ne sont pas sauvegardées en ligne. Toutes les données locales sont supprimées lorsque l’utilisateur désinstalle l’application."
         },
         "security": {
             "title": "Sécurité",
