@@ -54,7 +54,6 @@ const Terms = () => {
       <h2>{t('terms.indemnification.title')}</h2>
       <p>{t('terms.indemnification.p1')}</p>
       <p>{t('terms.indemnification.p2')}</p>
-      <p>{t('terms.indemnification.p3')}</p>
       <h2>{t('terms.links.title')}</h2>
       <p>{t('terms.links.p1')}</p>
       <h2>{t('terms.law.title')}</h2>
@@ -70,7 +69,7 @@ const Terms = () => {
       <h2>{t('terms.severance.title')}</h2>
       <p>{t('terms.severance.p1')}</p>
       <h2>{t('terms.contact.title')}</h2>
-      <Trans i18nKey="terms.contact.p1">...<Link style={linkStyle} to="#" onClick={() => window.location = 'mailto:info@furrly.com'}>...</Link></Trans>
+      <p><Trans i18nKey="terms.contact.p1">...<Link style={linkStyle} to="/contact"></Link></Trans></p>
     </GeneralContent>
   );
 }

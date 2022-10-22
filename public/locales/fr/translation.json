@@ -12,7 +12,7 @@
             "breederRegistration": "Inscription pour éleveur",
             "comingSoon": "Applications mobiles disponibles bientôt!"
         },
-        "informations": "Les moments d’attente entre la réservation et l’adoption peuvent paraître interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
+        "informations": "Les moments d’attente entre la réservation et l’adoption peuvent paraitre interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
         "tiles": {
             "title": "Adoptez la facilité",
             "p1": {
@@ -37,7 +37,7 @@
             },
             "album": {
                 "title": "Album et profil",
-                "p1": "Les moments d’attente entre la réservation, l’adoption et la prise de possession peuvent paraître interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
+                "p1": "Les moments d’attente entre la réservation, l’adoption et la prise de possession peuvent paraitre interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
                 "p2": "Nous savons que nos compagnons à quatre pattes sont précieux. Furrly vous permettra de créer un profil pour chacun de vos animaux. Vous pourrez ainsi avoir rapidement accès à tous vos clichés photos et de conserver tous ces souvenirs."
             }
         }
@@ -173,7 +173,7 @@
         },
         "contact": {
             "title": "Nous joindre",
-            "p1": "Pour toute question au sujet de l’Application, ou si vous avez des questions ou suggestions d’améliorations à apporter à l’Application, veuillez s’il vous plaît nous contacter <1>ici</1>."
+            "p1": "Pour toute question au sujet de l’Application, ou si vous avez des questions ou suggestions d’améliorations à apporter à l’Application, veuillez s’il vous plait <1>nous joindre</1>."
         }
      }
 }

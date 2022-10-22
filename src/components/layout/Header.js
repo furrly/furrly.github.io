@@ -6,7 +6,6 @@ import Logo from './partials/Logo';
 const propTypes = {
   navPosition: PropTypes.string,
   hideNav: PropTypes.bool,
-  hideSignin: PropTypes.bool,
   bottomOuterDivider: PropTypes.bool,
   bottomDivider: PropTypes.bool
 }
@@ -14,7 +13,6 @@ const propTypes = {
 const defaultProps = {
   navPosition: '',
   hideNav: false,
-  hideSignin: false,
   bottomOuterDivider: false,
   bottomDivider: false
 }
