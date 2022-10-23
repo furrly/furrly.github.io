@@ -6,7 +6,7 @@ import { ReactComponent as GoogleStoreFr } from './../assets/images/google-play-
 import ButtonGroup from './elements/ButtonGroup';
 import { useTranslation } from 'react-i18next';
 
-const AppStoreLinks = ({ isComingSoon, appleStoreUrl, googleStoreUrl }) => {
+const AppStoreLinks = ({ isComingSoon }) => {
 
     const disabledStyle = {
         filter: "grayscale(90%) opacity(50%)"
@@ -35,8 +35,8 @@ const AppStoreLinks = ({ isComingSoon, appleStoreUrl, googleStoreUrl }) => {
     } else {
         return (
             <ButtonGroup>
-                <div style={buttonStyle}><a title="Apple" href={appleStoreUrl}>{appleBadge}</a></div>
-                <div style={buttonStyle}><a title="Google" href={googleStoreUrl}>{googleBadge}</a></div>
+                <div style={buttonStyle}><a title="Apple" href="https://apps.apple.com/us/app/furrly/id6443866884">{appleBadge}</a></div>
+                <div style={buttonStyle}><a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a></div>
             </ButtonGroup>);
     }
 }

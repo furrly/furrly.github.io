@@ -98,10 +98,7 @@ const Hero = ({
                 </a>
               </div>
               <div className="reveal-from-bottom" data-reveal-delay="800">
-                <AppStoreLinks 
-                  isComingSoon={true} 
-                  appleStoreUrl={"https://apps.apple.com/us/app/furrly/id1641355865"}
-                  googleStoreUrl={"https://play.google.com/store/apps/details?id=app.furrly"} />
+                <AppStoreLinks isComingSoon={false} />
               </div>
             </div>
           </div>
