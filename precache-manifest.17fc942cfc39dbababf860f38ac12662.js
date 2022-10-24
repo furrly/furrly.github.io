@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42a1c33a4dbc45e24e7294dac698bd3c",
+    "revision": "2a5de6a9a875d42010efe7e4ef97456f",
     "url": "/index.html"
   },
   {
-    "revision": "c29ef82a448de8e55a76",
+    "revision": "ef0929e0a207641b2e4d",
     "url": "/static/css/main.006cbcce.chunk.css"
   },
   {
-    "revision": "d17341720e183654b10b",
-    "url": "/static/js/2.8fec60b9.chunk.js"
+    "revision": "d0185526c2d58594b3de",
+    "url": "/static/js/2.94f2f667.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/static/js/2.8fec60b9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.94f2f667.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c29ef82a448de8e55a76",
-    "url": "/static/js/main.6182869e.chunk.js"
+    "revision": "ef0929e0a207641b2e4d",
+    "url": "/static/js/main.c40f2efb.chunk.js"
   },
   {
     "revision": "b34a2d831d8b42b7d2df",
@@ -60,18 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/static/media/features-split-image-02.3c569239.png"
-  },
-  {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/static/media/features-split-image-03.87e4d053.png"
-  },
-  {
     "revision": "3519d5118322d8bee83cd515c1208a27",
     "url": "/static/media/furrly.3519d511.svg"
   },
@@ -104,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2852f6cfe5b21e5dab0da11a57b4438a",
-    "url": "/static/media/litter-manager.2852f6cf.png"
+    "revision": "40ca55ee9a95b538cd84b24c0003aa59",
+    "url": "/static/media/litter-manager.40ca55ee.png"
   },
   {
     "revision": "2810a88b1d6365b363caeabe678f1629",
