@@ -57,7 +57,7 @@ const Hero = ({
   const { t, i18n } = useTranslation();
 
   const isFrench = i18n.language.startsWith("fr");
-  var youtubeLink = isFrench ? "https://www.youtube.com/embed/I-BwNV1e700?autoplay=1" : "https://www.youtube.com/embed/2ux6ZJbgt0A?autoplay=1";
+  var youtubeLink = isFrench ? "https://www.youtube.com/embed/I-BwNV1e700?autoplay=1" : "https://www.youtube.com/embed/yADXeKWcHgo?autoplay=1";
   var thumbnailLink = isFrench ? "thumbnail_fr.png" : "thumbnail_en.png";
 
   return (
