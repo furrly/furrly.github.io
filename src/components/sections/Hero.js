@@ -98,7 +98,7 @@ const Hero = ({
                 </a>
               </div>
               <div className="reveal-from-bottom" data-reveal-delay="800">
-                <AppStoreLinks isComingSoon={false} />
+                <AppStoreLinks isComingSoon={true} />
               </div>
             </div>
           </div>
