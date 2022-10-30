@@ -35,7 +35,7 @@ const AppStoreLinks = ({ isComingSoon }) => {
     } else {
         return (
             <ButtonGroup>
-                <div style={buttonStyle}><a title="Apple" href="https://apps.apple.com/us/app/furrly/id6443866884">{appleBadge}</a></div>
+                <div style={buttonStyle}><a title="Apple" href="https://apps.apple.com/ca/app/furrly/id6443866884">{appleBadge}</a></div>
                 <div style={buttonStyle}><a title="Google" href="https://play.google.com/store/apps/details?id=app.furrly">{googleBadge}</a></div>
             </ButtonGroup>);
     }
