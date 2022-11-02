@@ -68,8 +68,8 @@ const FeaturesSplit = ({
           <div className={splitClasses}>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">{t("home.split.reservation.title")}</h3>
+              <div className="split-item-content reveal-from-right" data-reveal-container=".split-item">
+                <h3 className="mt-0 mb-12 center-content-mobile">{t("home.split.reservation.title")}</h3>
                 <ul>
                   <li>{t("home.split.reservation.b1")}</li>
                   <li>{t("home.split.reservation.b2")}</li>
@@ -91,8 +91,8 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">{t("home.split.litter.title")}</h3>
+              <div className="split-item-content reveal-from-left" data-reveal-container=".split-item">
+                <h3 className="mt-0 mb-12 center-content-mobile">{t("home.split.litter.title")}</h3>
                 <ul>
                   <li>{t("home.split.litter.b1")}</li>
                   <li>{t("home.split.litter.b2")}</li>
@@ -114,8 +114,8 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">{t("home.split.album.title")}</h3>
+              <div className="split-item-content reveal-from-left" data-reveal-container=".split-item">
+                <h3 className="mt-0 mb-12 center-content-mobile">{t("home.split.album.title")}</h3>
                 <p className="m-0">{t("home.split.album.p2")}</p>
               </div>
               <div className={
