@@ -28,7 +28,15 @@ const Footer = ({
     className
   );
 
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+
+  const changeLanguage = (lng) => {
+    i18n.changeLanguage(lng);
+  }
+
+  const languageSeparatorColor = {
+    color: "#ECEDED"
+  }
 
   return (
     <footer
@@ -52,6 +60,13 @@ const Footer = ({
               <Link to="privacy">{t('footer.privacy')}</Link>
               <br/>
               <Link to="terms">{t('footer.terms')}</Link>
+              <br/>
+              <br/>
+              <div>
+                <Link to="" onClick={() => changeLanguage('fr')}>FR</Link>
+                <span style={languageSeparatorColor}>&nbsp;|&nbsp;</span>
+                <Link to="" onClick={() => changeLanguage('en')}>EN</Link>
+              </div>
             </div>
             <FooterSocial size={80} />
           </div>
