@@ -10,6 +10,7 @@ import Contact from './views/Contact';
 import Privacy from './views/Privacy';
 import Terms from './views/Terms';
 import HeaderLayout from './layouts/HeaderLayout';
+import Survey from './components/Survey';
 
 const App = () => {
 
@@ -32,6 +33,7 @@ const App = () => {
             <AppRoute exact path="/contact" component={Contact} layout={HeaderLayout} />
             <AppRoute exact path="/privacy" component={Privacy} layout={HeaderLayout} />
             <AppRoute exact path="/terms" component={Terms} layout={HeaderLayout} />
+            <AppRoute exact path="/survey" component={Survey} layout={HeaderLayout} />
           </Switch>
         )} />
   );

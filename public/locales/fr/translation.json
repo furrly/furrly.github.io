@@ -175,5 +175,12 @@
             "title": "Nous joindre",
             "p1": "Pour toute question au sujet de l’Application, ou si vous avez des questions ou suggestions d’améliorations à apporter à l’Application, veuillez s’il vous plait <1>nous joindre</1>."
         }
+     },
+     "survey": {
+         "title": "Sondage",
+         "breeder": "Éleveur",
+         "owner": "Propriétaire",
+         "breederUrl": "",
+         "ownerUrl": ""
      }
 }
