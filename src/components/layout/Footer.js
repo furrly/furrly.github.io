@@ -61,6 +61,8 @@ const Footer = ({
               <br/>
               <Link to="terms">{t('footer.terms')}</Link>
               <br/>
+              <Link to="survey">{t('footer.survey')}</Link>
+              <br/>
               <br/>
               <div>
                 <Link to="" onClick={() => changeLanguage('fr')}>FR</Link>
