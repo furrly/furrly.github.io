@@ -8,15 +8,15 @@ const Survey = () => {
 
     return (
         <GeneralContent>
-            <h1>{t('survey.title')}</h1>
-            <div style={{ marginBottom: 50 }} data-reveal-delay="600">
+            <h1 style={{ marginBottom: 50 }}>{t('survey.title')}</h1>
+            <div className='center-content-mobile'>
+                <a href={t('survey.breederUrl')}>
+                    <Button style={{ marginLeft:50, marginRight: 50, marginBottom: 50, width: 200 }} className={"button-register"}>{t('survey.breeder')}</Button>
+                </a>
+                <a href={t('survey.ownerUrl')}>
+                    <Button style={{ marginLeft:50, marginRight: 50, width: 200 }} className={"button-register"}>{t('survey.owner')}</Button>
+                </a>
             </div>
-            <a href={t('survey.breederUrl')}>
-                <Button style={{ marginRight: 50, marginBottom: 50, width: 200 }} className={"button-register"}>{t('survey.breeder')}</Button>
-            </a>
-            <a href={t('survey.ownerUrl')}>
-                <Button style={{ marginRight: 50, width: 200 }}  className={"button-register"}>{t('survey.owner')}</Button>
-            </a>
         </GeneralContent>
     );
 }
