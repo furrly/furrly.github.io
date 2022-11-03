@@ -47,7 +47,8 @@
         "about": "About Us",
         "contact": "Contact Us",
         "privacy": "Privacy Policy",
-        "terms": "Terms and Conditions"
+        "terms": "Terms and Conditions",
+        "survey": "Survey"
     },
     "privacy": {
         "title": "Privacy Policy",
@@ -175,5 +176,12 @@
             "title": "Contact Us",
             "p1": "If you require further information about the Application or have any suggestions to improve such Application, please <1>contact us</1>."
         }
+    },
+    "survey": {
+        "title": "Survey",
+        "breeder": "Breeder",
+        "owner": "Owner",
+        "breederUrl": "https://forms.office.com/r/XevJWcNmzA",
+        "ownerUrl": "https://forms.office.com/r/1pamCCZq8e"
     }
 }

@@ -47,7 +47,8 @@
         "about": "À propos de nous",
         "contact": "Nous joindre",
         "privacy": "Politique de confidentialité",
-        "terms": "Conditions d’utilisation"
+        "terms": "Conditions d’utilisation",
+        "survey": "Sondage"
     },
     "privacy": {
         "title": "Politique de confidentialité",
@@ -175,5 +176,12 @@
             "title": "Nous joindre",
             "p1": "Pour toute question au sujet de l’Application, ou si vous avez des questions ou suggestions d’améliorations à apporter à l’Application, veuillez s’il vous plait <1>nous joindre</1>."
         }
+     },
+     "survey": {
+         "title": "Sondage",
+         "breeder": "Éleveur",
+         "owner": "Propriétaire",
+         "breederUrl": "https://forms.office.com/r/sc8zs9EDbQ?lang=fr-FR",
+         "ownerUrl": "https://forms.office.com/r/uBg6rRv4d8?lang=fr-FR"
      }
 }
