@@ -68,7 +68,7 @@ const Hero = ({
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               <Furrly height={250} />
             </h1>
-
+            <h3 className='mt-0 mb-12 center-content-mobile'>{t("home.hero.mission")}</h3>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="400">
             <a
