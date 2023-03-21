@@ -10,7 +10,8 @@
     "home": {
         "hero": {
             "breederRegistration": "Breeder Registration",
-            "comingSoon": "Mobile application coming soon!"
+            "comingSoon": "Mobile application coming soon!",
+            "mission": "Furrly aims to improve the quality of life of our four-legged companions and their owners."
         },
         "informations": "The waiting times between booking and the adoption can seem endless. Furrly allows the breeder to stay connected with future owners and to send messages and photos while waiting for the big day.",
         "tiles": {

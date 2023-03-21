@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7311a68bf1aca5f0698cb20284c32ac4",
+    "revision": "5c80f5dd1d00f963722d777b4221af91",
     "url": "/index.html"
   },
   {
-    "revision": "074596cdcf344f1086b9",
+    "revision": "00709906955b40409183",
     "url": "/static/css/main.006cbcce.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5df58dc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "074596cdcf344f1086b9",
-    "url": "/static/js/main.a6b81db7.chunk.js"
+    "revision": "00709906955b40409183",
+    "url": "/static/js/main.d3742ea0.chunk.js"
   },
   {
     "revision": "b34a2d831d8b42b7d2df",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "3519d5118322d8bee83cd515c1208a27",
-    "url": "/static/media/furrly.3519d511.svg"
+    "revision": "d5a184b035a8aa51d8adea5c3eda501e",
+    "url": "/static/media/furrly.d5a184b0.svg"
   },
   {
     "revision": "0b10d39900cd387e9b9093c78b1a92b8",

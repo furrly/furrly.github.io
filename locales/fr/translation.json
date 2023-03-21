@@ -10,7 +10,8 @@
     "home": {
         "hero": {
             "breederRegistration": "Inscription pour éleveur",
-            "comingSoon": "Application mobile disponible bientôt!"
+            "comingSoon": "Application mobile disponible bientôt!",
+            "mission": "Furrly vise l'amélioration de la qualité de vie de nos compagnons à quatre pattes et de leurs propriétaires"
         },
         "informations": "Les moments d’attente entre la réservation et l’adoption peuvent paraitre interminables. Furrly permet à l’éleveur de garder contact avec les futurs propriétaires et de faire parvenir message et photo en attente du grand jour.",
         "tiles": {
