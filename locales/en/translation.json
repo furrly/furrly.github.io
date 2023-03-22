@@ -11,11 +11,11 @@
         "hero": {
             "breederRegistration": "Breeder Registration",
             "comingSoon": "Mobile application coming soon!",
-            "mission": "Furrly aims to improve the quality of life of our four-legged companions and their owners."
+            "mission": "Furrly aims to improve the quality of life of our four‑legged companions and their owners."
         },
         "informations": "The waiting times between booking and the adoption can seem endless. Furrly allows the breeder to stay connected with future owners and to send messages and photos while waiting for the big day.",
         "tiles": {
-            "title": "Adopt ease-of-use",
+            "title": "Adopt ease‑of‑use",
             "p1": {
                 "what": "Furrly is",
                 "b1": "An app that let people book animal reservations",
@@ -39,7 +39,7 @@
             "album": {
                 "title": "Album and Profile",
                 "p1": "The waiting times between booking, adoption and taking possession can seem endless. Furrly allows the breeder to stay connected with future owners and to send messages and photos while waiting for the big day.",
-                "p2": "We know that our four-legged friends are precious. Furrly will allow you to create a profile for each of your pets. You will be able to have quick access to all your photos and keep all these memories."
+                "p2": "We know that our four‑legged friends are precious. Furrly will allow you to create a profile for each of your pets. You will be able to have quick access to all your photos and keep all these memories."
             }
         }
     },
