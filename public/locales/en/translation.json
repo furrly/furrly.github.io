@@ -66,7 +66,7 @@
         },
         "onlineData": {
             "title": "Online Data",
-            "p1": "The user profile stored online contains personal user information that is collected during the application registration and profile updates. A feature is provided on the application web site to delete all the information associated to a user account."
+            "p1": "The user profile stored online contains personal user information that is collected during the application registration and profile updates. A feature is provided inside the mobile application to delete all the information associated to a user account."
         },
         "localFiles": {
             "title": "Local Files",
