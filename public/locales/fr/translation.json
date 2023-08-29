@@ -62,7 +62,7 @@
         },
         "photoGallery": {
             "title": "Album de photos",
-            "p1": "L’application nécessite les droits d’accès à la caméra et aux fichiers de l’appareil pour mettre à jour l’album de photos. À moins d’être explicitement partagées, les photos ne sont accessibles que par le propriétaire. Les photos sont stockées sur les serveurs de Furrly et peuvent être effacées individuellement ou encore en effaçant la totalité des informations associées au compte utilisateur via une fonctionnalité offerte sur le site applicatif."
+            "p1": "L’application nécessite les droits d’accès à la caméra et aux fichiers de l’appareil pour mettre à jour l’album de photos. À moins d’être explicitement partagées, les photos ne sont accessibles que par le propriétaire. Les photos sont stockées sur les serveurs de Furrly et peuvent être effacées individuellement ou encore en effaçant la totalité des informations associées au compte utilisateur via une fonctionnalité offerte dans l'application mobile."
         },
         "onlineData": {
             "title": "Données en ligne",
