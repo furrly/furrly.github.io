@@ -19,6 +19,17 @@ const Privacy = () => {
       <p>{t('privacy.photoGallery.p1')}</p>
       <h2>{t('privacy.onlineData.title')}</h2>
       <p>{t('privacy.onlineData.p1')}</p>
+      <ul>
+        <li>{t('privacy.onlineData.b1')}</li>
+        <li>{t('privacy.onlineData.b2')}</li>
+        <li>{t('privacy.onlineData.b3')}</li>
+      </ul>
+      <p>{t('privacy.onlineData.p2')}</p>
+      <ol>
+        <li>{t('privacy.onlineData.d1')}</li>
+        <li>{t('privacy.onlineData.d2')}</li>
+        <li>{t('privacy.onlineData.d3')}</li>
+      </ol>
       <h2>{t('privacy.localFiles.title')}</h2>
       <p>{t('privacy.localFiles.p1')}</p>
       <h2>{t('privacy.security.title')}</h2>
