@@ -27,7 +27,10 @@ i18n
 
     interpolation: {
       escapeValue: false,
-    }
+    },
+    backend: {
+      loadPath: '/furrly/locales/{{lng}}/translation.json'
+  }
   }, 
   () => ReactDOM.render(
     <Router history={history}>
