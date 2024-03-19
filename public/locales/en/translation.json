@@ -67,9 +67,9 @@
         "onlineData": {
             "title": "Online Data",
             "p1": "The user profile stored online contains personal user information that is collected during the application registration and profile updates. The information we collect:",
-            "b1": "first and last name for identification ;",
-            "b2": "email address for authentication ; and",
-            "b3": "photos for albums.",
+            "b1": "first and last name (purpose: for identification) ;",
+            "b2": "email address (purpose: for authentication) ; and",
+            "b3": "photos (purpose: to feed photos albums).",
             "p2": "A feature is provided inside the mobile application to delete all the information associated to a user account. To delete your data:",
             "d1": "open a session in the app ;",
             "d2": "in the profile section, click “Manage Account” ; and",

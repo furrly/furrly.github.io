@@ -67,9 +67,9 @@
         "onlineData": {
             "title": "Données en ligne",
             "p1": "Le profil utilisateur stocké en ligne contient des informations personnelles sur l’utilisateur qui sont collectées lors de l’enregistrement de l’application et des mises à jour du profil. Voici les données qui sont recueillies :",
-            "b1": "nom et prénom pour fin d'identification ;",
-            "b2": "addresse courriel pour l'authentification ; et",
-            "b3": "photos pour les albums.",
+            "b1": "nom et prénom (objectif: pour fin d'identification) ;",
+            "b2": "addresse courriel (objectif: pour l'authentification) ; et",
+            "b3": "photos (objectif: pour alimenter les albums de photos).",
             "p2": "Une fonctionnalité est fournie dans l'application mobile pour effacer la totalité des informations associées à votre compte utilisateur. Pour effacer vos données :",
             "d1": "ouvrir un session dans l’application ;",
             "d2": "dans la section profil, choisir “Gérer le compte” ; et",
