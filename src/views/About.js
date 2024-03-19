@@ -12,7 +12,7 @@ const About = () => {
   return (
     <GeneralContent>
       <h1>{t('about.title')}</h1>
-      <p><Trans i18nKey="about.p1"><Link style={linkStyle} to={{pathname: "https://sylc.dev"}} target="_blank"></Link></Trans></p>
+      <p><Trans i18nKey="about.p1"><Link style={linkStyle} to={{pathname: "https://github.com/furrly"}} target="_blank"></Link></Trans></p>
     </GeneralContent>
   );  
 }
