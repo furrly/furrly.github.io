@@ -1,7 +1,7 @@
 {
     "about": {
         "title": "About Us",
-        "p1": "<0>SYLC s.e.n.c.</0> is a software development company."
+        "p1": "<0>Furrly Inc.</0> is a software development company."
     },
     "contact": {
         "title": "Contact Us",
@@ -86,19 +86,19 @@
     },
     "terms": {
         "title": "Terms and Conditions",
-        "intro": "THIS AGREEMENT LIMITS THE LIABILITY OF SYLC S.E.N.C. (“SYLC”, “We”, “Us”, “Our” AS THE CONTEXT REQUIRES), GRANTS YOU A LIMITED LICENSE AND GIVES SYLC OWNERSHIP OF AND CONTROL OVER INFORMATION YOU PROVIDE.",
+        "intro": "THIS AGREEMENT LIMITS THE LIABILITY OF Furrly Inc. (“Furrly”, “We”, “Us”, “Our” AS THE CONTEXT REQUIRES), GRANTS YOU A LIMITED LICENSE AND GIVES Furrly OWNERSHIP OF AND CONTROL OVER INFORMATION YOU PROVIDE.",
         "general": {
             "title": "General",
-            "p1": "This document sets out the terms and conditions of use (“the Terms”) according to which you may use the Furrly application (“the Application”). These Terms constitute a binding agreement (“the Agreement”) between you and SYLC. By clicking on the “Get the app” button, you are confirming that you have read, understood and agreed to be bound by the Terms of the Agreement below. Please review the Terms carefully before giving your acceptance by downloading the Application. If you do not agree with these Terms, you may not install or use the Application."
+            "p1": "This document sets out the terms and conditions of use (“the Terms”) according to which you may use the Furrly application (“the Application”). These Terms constitute a binding agreement (“the Agreement”) between you and Furrly. By clicking on the “Get the app” button, you are confirming that you have read, understood and agreed to be bound by the Terms of the Agreement below. Please review the Terms carefully before giving your acceptance by downloading the Application. If you do not agree with these Terms, you may not install or use the Application."
         },
         "privacy": {
             "title": "Protection of your Information",
             "p1": "In order to use certain features of the Application, you must register for an account with Furrly (“Furrly Account”) and provide certain information about yourself as prompted by the Application registration form.",
-            "p2": "SYLC takes your privacy seriously and operates at all times in accordance with applicable data protection laws. Hence, when using the Application, any information you supply to SYLC will be used and protected in accordance with the requirements of the Privacy Act and Furrly’s Privacy Policy which can be viewed <1>here</1>."
+            "p2": "Furrly takes your privacy seriously and operates at all times in accordance with applicable data protection laws. Hence, when using the Application, any information you supply to Furrly will be used and protected in accordance with the requirements of the Privacy Act and Furrly’s Privacy Policy which can be viewed <1>here</1>."
         },
         "license": {
             "title": "Proprietary Rights and License",
-            "p1": "This Application is owned and operated by SYLC, whose registered office is located in Mirabel, Quebec, Canada, J7J 0B5.",
+            "p1": "This Application is owned and operated by Furrly, whose registered office is located in Mirabel, Quebec, Canada, J7J 0B5.",
             "p2": "In consideration of you agreeing to abide by these Terms, We hereby grant you a non-transferable, non-exclusive, non-sub licensable, revocable license to download, access and use the Application for your own personal, non-commercial purposes and for no other purpose. This license is subject to you complying with these Terms.",
             "p3": "We retain all trademarks, copyright, database rights and other intellectual rights in the Application together with the underlying software code."
         },
@@ -121,19 +121,19 @@
             "p2": {
                 "text": "Without limiting the generality of the foregoing, you agree that, in using or accessing Our Application, you shall not commit or participate in, or allow third parties to commit or participate in on your behalf, any of the following acts or actions, each of which is expressly prohibited under this Agreement:",
                 "b1": "(a) make and distribute copies of the Application; (b) attempt to copy, reproduce, alter, modify, reverse engineer, disassemble, decompile or translate the Application; (c) create derivative works of the Application; (d) attempt to derive the source code of the Application; (e) remove, alter or destroy any proprietary, trademark or copyright markings or notices placed upon or contained within the Application; or (f) use the Application to develop any application or technology having the same primary function as the Application;",
-                "b2": "access Our Application to make any speculative, fraudulent, or false reservation, or any reservation in anticipation of demand. SYLC reserves the right to cancel any and all such prohibited reservations without notice and without liability; or",
-                "b3": "engage in any other conduct or activity that either conflicts with this Agreement or that SYLC deems, in its sole and absolute discretion, to be in conflict with this Agreement."
+                "b2": "access Our Application to make any speculative, fraudulent, or false reservation, or any reservation in anticipation of demand. Furrly reserves the right to cancel any and all such prohibited reservations without notice and without liability; or",
+                "b3": "engage in any other conduct or activity that either conflicts with this Agreement or that Furrly deems, in its sole and absolute discretion, to be in conflict with this Agreement."
             }
         },
         "platforms": {
             "title": "App Platforms",
             "p1": "This application is solely available with iPhone® mobile device and with any Android® mobile device.",
-            "p2": "You acknowledge and agree that the availability of the Application is dependent on the third party app platform from which you received the Application, e.g., the Apple iPhone store (“App Platform”). You acknowledge that this Agreement is between you and SYLC and not with the App Platform. SYLC, not the App Platform, is solely responsible for the App, the content thereof, maintenance and support services, and addressing any claims relating thereto (e.g., product liability, legal compliance, or intellectual property infringement)."
+            "p2": "You acknowledge and agree that the availability of the Application is dependent on the third party app platform from which you received the Application, e.g., the Apple iPhone store (“App Platform”). You acknowledge that this Agreement is between you and Furrly and not with the App Platform. Furrly, not the App Platform, is solely responsible for the App, the content thereof, maintenance and support services, and addressing any claims relating thereto (e.g., product liability, legal compliance, or intellectual property infringement)."
         },
         "analytics": {
             "title": "Use of Google Analytics",
-            "p1": "This Application uses Google Analytics to provide web analytics services. Google analytics is a web analytics service provided by Google, Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). SYLC uses the visitor information captured by Google Analytics to improve the user experience of its Application and to ensure the content on its Application is presented in a manner that makes it easy for site visitors to find and act upon the information they are seeking.",
-            "p2": "The information generated by the cookie regarding your use of Our Application (including your IP address) will usually be transmitted to and stored by Google on their servers. Google abides by a “US-Safe-Harbour” agreement. Google uses the audience related data, traffic source data and content related data. Google uses the information to evaluate the usage of our Application and to offer web analytics services to SYLC. Google may transfer this information to third parties when it is prescribed by law. Google will not connect your IP address with other data of Google.",
+            "p1": "This Application uses Google Analytics to provide web analytics services. Google analytics is a web analytics service provided by Google, Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). Furrly uses the visitor information captured by Google Analytics to improve the user experience of its Application and to ensure the content on its Application is presented in a manner that makes it easy for site visitors to find and act upon the information they are seeking.",
+            "p2": "The information generated by the cookie regarding your use of Our Application (including your IP address) will usually be transmitted to and stored by Google on their servers. Google abides by a “US-Safe-Harbour” agreement. Google uses the audience related data, traffic source data and content related data. Google uses the information to evaluate the usage of our Application and to offer web analytics services to Furrly. Google may transfer this information to third parties when it is prescribed by law. Google will not connect your IP address with other data of Google.",
             "p3": "If you prefer to prevent the transfer of information regarding your visit to this Application to Google Analytics, you are free to install a deactivation add-on. You can download this add-on right here: https://tools.google.com/dlpage/gaoptout/"
         },
         "rules": {
@@ -143,7 +143,7 @@
         },
         "liability": {
             "title": "Limitation of Liability",
-            "p1": "While SYLC will take such steps as are reasonable in the circumstances to maintain the security of this Application and of your privacy and confidentiality with respect to information you provide, you agree that your use of this Application is entirely at your own risk. To the maximum extent permitted by law, We do not accept any liability for (a) any inaccuracies or omissions in the content displayed on or via the Application and for (b) any direct, indirect, special, punitive, exemplary of consequential losses or damages of whatsoever kind, including damages to device, arising out of your access or use of the Application. In any case, should a court hold SYLC liable for such damages, SYLC shall not be liable for an amount greater than $250 CAD."
+            "p1": "While Furrly will take such steps as are reasonable in the circumstances to maintain the security of this Application and of your privacy and confidentiality with respect to information you provide, you agree that your use of this Application is entirely at your own risk. To the maximum extent permitted by law, We do not accept any liability for (a) any inaccuracies or omissions in the content displayed on or via the Application and for (b) any direct, indirect, special, punitive, exemplary of consequential losses or damages of whatsoever kind, including damages to device, arising out of your access or use of the Application. In any case, should a court hold Furrly liable for such damages, Furrly shall not be liable for an amount greater than $250 CAD."
         },
         "warranty": {
             "title": "Warranty Disclaimer",
@@ -151,18 +151,18 @@
         },
         "indemnification": {
             "title": "Indemnification",
-            "p1": "As a condition of your use of the Application, you agree to defend, indemnify and hold harmless SYLC and any of its officers, directors, employees and agents from and against any and all claims, demands, actions, suits, proceedings, liabilities, judgements, damages, costs and expenses (including reasonable legal fees) arising out of, or resulting from, or otherwise connected to your use of the Application or a breach of this Agreement.",
-            "p2": "A delay, omission or failure by SYLC to exercise any right or power under this Agreement shall not be construed to be a waiver by SYLC of such or any other right or power, which SYLC may assert at any time or against any person."
+            "p1": "As a condition of your use of the Application, you agree to defend, indemnify and hold harmless Furrly and any of its officers, directors, employees and agents from and against any and all claims, demands, actions, suits, proceedings, liabilities, judgements, damages, costs and expenses (including reasonable legal fees) arising out of, or resulting from, or otherwise connected to your use of the Application or a breach of this Agreement.",
+            "p2": "A delay, omission or failure by Furrly to exercise any right or power under this Agreement shall not be construed to be a waiver by Furrly of such or any other right or power, which Furrly may assert at any time or against any person."
         },
         "links": {
             "title": "External Links",
-            "p1": "The Application may contain hyperlinks to websites operated by parties other than SYLC. Those links are provided for reference only. We have no control over the content or performance of such websites and are not responsible for their contents or the privacy or other practices. SYLC does not endorse and does not accept to be held liable in relation to the material found on such websites or any association with their operators. When selecting a link, you should refer to their terms and conditions and privacy policy."
+            "p1": "The Application may contain hyperlinks to websites operated by parties other than Furrly. Those links are provided for reference only. We have no control over the content or performance of such websites and are not responsible for their contents or the privacy or other practices. Furrly does not endorse and does not accept to be held liable in relation to the material found on such websites or any association with their operators. When selecting a link, you should refer to their terms and conditions and privacy policy."
         },
         "law": {
             "title": "Governing Law and Election of Domicile",
             "p1": "This Agreement shall in all respects be governed by and construed in accordance with the laws of the Province of Quebec, Canada, and the laws of Canada applicable therein, without giving effect to any choice or conflict of law, rules and other provisions (whether in the Province of Quebec or in any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the Province of Quebec.",
             "p2": "You agree to elect domicile under the jurisdiction of the courts situated in the judicial District of Montreal, Province of Quebec for all disputes or disagreements arising from this Agreement, and waive any objections as to personal jurisdiction or as to the laying of venue in such courts due to inconvenient forum or any other basis and undertake to file no action or bring no complaint in any other court.",
-            "p3": "Nothing contained in this section shall prevent SYLC from commencing an action in any court of competent jurisdiction in order to enforce these Terms and seek damages and/or equitable relief against you for breach of this Agreement."
+            "p3": "Nothing contained in this section shall prevent Furrly from commencing an action in any court of competent jurisdiction in order to enforce these Terms and seek damages and/or equitable relief against you for breach of this Agreement."
         },
         "termination": {
             "title": "Termination",
@@ -170,11 +170,11 @@
         },
         "amendments": {
             "title": "Amendments",
-            "p1": "SYLC reserves the right to amend these Terms at any time and for any reason. Where substantial changes have been made, SYLC shall display the revised terms and conditions on the Application and you will be deemed to have accepted any amendment if you continue using the Application after the amendments are displayed."
+            "p1": "Furrly reserves the right to amend these Terms at any time and for any reason. Where substantial changes have been made, Furrly shall display the revised terms and conditions on the Application and you will be deemed to have accepted any amendment if you continue using the Application after the amendments are displayed."
         },
         "agreement": {
             "title": "Entire Agreement",
-            "p1": "Subject to any other applicable agreements to which SYLC may be a party, this is the entire agreement, contract and understanding between SYLC and yourself."
+            "p1": "Subject to any other applicable agreements to which Furrly may be a party, this is the entire agreement, contract and understanding between Furrly and yourself."
         },
         "severance": {
             "title": "Severance",
